@@ -2,24 +2,24 @@ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 
-$(function() {
-        a("#contactForm").submit(function(c) {
-            c.preventDefault();
-            a("#contactSubmit").html("Wait..").attr("disabled", "disabled");
-            var b = a.ajax({
+$(document).ready(function() {
+	   $("#contactForm").on('submit', function(e){
+	   		e.preventDefault();
+       $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");	   		
+        var b = $.ajax({
                 url: "/scripts/signup.php",
                 type: "post",
-                data: a("#contactForm").serialize(),
+                data: $("#contactForm").serialize(),
                 success: function(d) {
-                    a("#contactSubmit").html("Subscribed...").attr("disabled", "disabled")
+                    $("button#contactSubmit").html("Subscribed...").attr("disabled", "disabled")
                 },
                 error: function(d) {
-                    a("#contactSubmit").html("Failed...").attr("disabled", "disabled");
+                    $("button#contactSubmit").html("Failed...").attr("disabled", "disabled");
                     setTimeout(function() {
-                        a("#contactSubmit").html("Subscribe").prop("disabled", false)
+                        $("button#contactSubmit").html("Subscribe").prop("disabled", false)
                     }, 2000)
                 }
             })
-        })
-})
-
+    
+	   	})
+ });
