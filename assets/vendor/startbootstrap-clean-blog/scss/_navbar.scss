@@ -26,11 +26,11 @@
     }
   }
   @media only screen and (min-width: 992px) {
-    border-bottom: 1px solid transparent;
-    background: transparent;
+    border-bottom: 1px solid darken($white, .05);
+    background-color: fade-out($white, .5);
     .navbar-brand {
       padding: 10px 20px;
-      color: $white;
+      color: $black;
       &:focus,
       &:hover {
         color: fade-out($white, .2);
@@ -40,7 +40,7 @@
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: $white;
+          color: $gray-900;
           &:focus,
           &:hover {
             color: fade-out($white, .2);
@@ -68,7 +68,7 @@
       -moz-transition: -moz-transform 0.2s;
       transition: transform 0.2s;
       border-bottom: 1px solid darken($white, .05);
-      background-color: fade-out($white, .1);
+      background-color: fade-out($white, .5);
       .navbar-brand {
         color: $gray-900;
         &:focus,

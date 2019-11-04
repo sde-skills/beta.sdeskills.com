@@ -1,15 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              SDE Skills
+email:              website@sdeskills.com
+description:        Get upgraded of get deprecated!
+author:             Vivek K
 baseurl:            ""
 url:                "http://beta.sdeskills.com"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+twitter_username:   sdeskills
+github_username:    sde-skills
+facebook_username:  sdeskills
+linkedin_username:  sdeskills
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -22,3 +22,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-redirect-from
