@@ -1,12 +1,71 @@
 ---
 layout: page
-title: About Me
-description: This is what I do.
+title: About SDE Skills
+description: SDE Skills is a volunteer led, 501(c)(3) non-profit organization that has been helping improve the interviewing skills of the community.
 background: '/img/bg-about.jpg'
 ---
+<section id="section-corevalues" class="section-wrapper">
+<div class="container">		
+	<div class="row">
+	    <div class="col-md-12">
+            <h2 class="section-title">Our Core Values</h2>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col-md-12 section-text">
+			<ul>
+				<li>We over index on Consistency, Reliability and Dependability</li>
+				<li>We strive to be efficient and effective</li>
+				<li>We are compassionate, inclusive </li>
+				<li>We actively encourage participation from the community</li>
+				<li>All our programs are built with community-first approach</li>
+			</ul>
+	    </div>
+	</div>
+</div>
+</section>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!</p>
+<section id="section-meetups" class="section-wrapper">
+	<div class="container">
+    	<div class="row">
+	        <div class="col-lg-12 ">
+                <h2 class="section-title">Our Team</h2>
+                <h3 class="section-subheading text-muted">Meet our awesome team. These are the folks who make things happen.</h3>
+	        </div>
+        </div>
+                
+	    <div class="row">
+		    {% for member in site.team %}
+		    <div class="col-sm-4">
+		        <div class="team-member">
+		            <img src="img/people/{{ member.pic }}" class="img-responsive img-circle" alt="">
+		            <h4 class="name">{{ member.name }}</h4>
+		            <p class="text-muted role">{{ member.position }}</p>
+		        </div>
+		    </div>
+		    {% endfor %}
+	    </div>
+    </div>	    
+</section>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.</p>
-
-<p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!</p>
+<section id="section-meetups" class="section-wrapper">
+	<div class="container">
+    	<div class="row">
+	        <div class="col-lg-12 ">
+                <h2 class="section-title">Our Advisors</h2>
+	        </div>
+        </div>
+                
+	    <div class="row">
+		    {% for member in site.advisors %}
+		    <div class="col-sm-4">
+		        <div class="team-member">
+		            <img src="img/people/{{ member.pic }}" class="img-responsive img-circle" alt="">
+		            <h4 class="name">{{ member.name }}</h4>
+		            <p class="text-muted role">{{ member.position }}</p>
+		        </div>
+		    </div>
+		    {% endfor %}
+	    </div>
+    </div>	    
+</section>

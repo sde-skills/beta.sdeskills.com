@@ -75,3 +75,59 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.img-responsive {
+    display: block;
+    width: 100% \9;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.team-member {
+  font-size: 14px;
+  margin: 2px 0 20px;
+}
+
+.team-member .role {
+  font-weight: bold;
+  text-align: center;  
+  font-size: 14px;
+  margin: 2px 0;
+}
+
+.team-member .intro {
+  font-size: 14px;
+  margin: 2px 0;
+}
+
+.team-member .name {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.section-title {
+  font-size: 24px;
+}
+
+.section-subheading {
+  font-size: 14px;
+}
+
+.section-text {
+  font-size: 16px;
+}
