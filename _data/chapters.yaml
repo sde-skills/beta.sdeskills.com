@@ -1,0 +1,50 @@
+mis:
+  name: Mission Control
+  team:
+    - name: Bhavesh Patel
+      pic: bhavesh.jpg
+      position: President / Executive Director
+
+    - name: Vivek Kirubanandan
+      pic: vivek.jpg
+      position: Founder and Advisor
+
+sea:
+  name: Seattle Chapter
+  year: 2010
+  team:
+    - name: Devi Nayar
+      pic: devi.jpg
+      position: Seattle Chapter Lead 
+
+    - name: Gaurav Agarwal
+      pic: gaurav.jpg
+      position: Seattle Tech Lead
+
+    - name: Supriya Dixit
+      pic: placeholder.jpg
+      position: Seattle Operations Lead
+sfo:
+  name: Bay Area Chapter
+  year: 2015
+  team:
+    - name: Sanath Kumar
+      pic: sanath.jpg
+      position: Bay Area Chapter Lead
+
+yyz:
+  name: Toronto Chapter
+  year: 2019
+  team:
+    - name: Patrick Cosmo
+      pic: placeholder.jpg
+      position: Toronto Chapter Lead
+
+bos:
+  name: Boston Chapter (in works)
+  year: 2020 (expected)
+  team:
+    - name: TBD
+      pic: placeholder.jpg
+      position: Boston Chapter Lead
+
