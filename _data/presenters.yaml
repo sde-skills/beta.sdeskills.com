@@ -20,26 +20,143 @@
   linkedin: gauravagarwalcs
 
 - name: Hanif
+  pic: hanif.jpg
+  title: Software Engineer at Mindtree
+  linkedin: hanif-ahmed-seattle
+
 - name: Naga A
+  pic: naga.jpg
+  title: Sr. Engineer at Nordstorm
+  linkedin: nagarajulu
+
 - name: Supriya Dixit
+  pic: supriya.jpg
+  title: Mobile App Developer
+  linkedin: supriya-dixit-11222a3a
+
 - name: Vaibhav Teli
+  pic: vaibhav.jpg
+  title: Sr. Software Engineer at Rakuten
+  linkedin: vaibhav-teli-ba746124
+
 - name: Sailesh
+  pic: sailesh.jpg
+  title: Software Engineer at Microsoft
+  linkedin: saileshbaidya
+
 - name: Elizabeth D
+  pic: elizabeth.jpg
+  title: SDE at Amazon
+  linkedin: elizabethrduong
+
 - name: Mary
+  pic: mary.jpg
+  title: SRE at Sinclair Broadcast Group
+  linkedin: marycrawfordtechip
+
 - name: Sanath Kumar
+  pic: sanath.jpg
+  title: SDE at NGINX
+  linkedin: sanathkumarbs
+
 - name: Vidya
-- name: Sonia
+  pic: vidya.jpg
+  title: Founder of MyTechLadder
+  linkedin: vidyasubra
+
+- name: Sonia Hingorany
+  pic: soniah.jpg
+  title: Sr. Manager at AWS
+  linkedin: sonia-hingorany-8959634
+
 - name: Nikhilesh
+  pic: nikhilesh.jpg
+  title: TPM at Facebook
+  linkedin: nikhileshgrover
+
 - name: Karthik S
+  pic: karthik.jpg
+  title: Sr. SDM at Amazon Business
+  linkedin: karthikseetharaman
+
 - name: Prachi T
-- name: William Wilaford 
+  pic: prachi.jpg
+  title: Sr. SDM at VRBO, Expedia
+  linkedin: prachityagi
+
+- name: William Willaford 
+  pic: william.jpg
+  title: Sr. SDM at Amazon
+  linkedin: williamwillafordiv
+
 - name: Sonali B
-- name: Madhumita B
-- name: Andreas
+  pic: sonali.jpg
+  title: Sr. SDE at Tableau Software
+  linkedin: sonali-bhargava-b470401
+
+- name: Madhumitha B
+  pic: madhumitha.jpg
+  title: Sr Software Engineer at Zulily
+  linkedin: madhumitha-baskaran-4b395031
+
+- name: Andreas Kolshorn
+  pic: andreas.jpg
+  title: Sr Software Engineer
+  linkedin: andreaskolshorn
+
 - name: Aseem puri
+  pic: aseem.jpg
+  title: Software Engineer at Nordstorm
+  linkedin: aseempuri
+
 - name: Abhilash Arora
+  pic: abhilash.jpg
+  title: Software Engineer at Microsoft
+  linkedin: abhilasharora
+
 - name: Sonia Arora
-- name: Ambica
-- name: Anoosha
+  pic: sonia.jpg
+  title: SDE / Data Science
+  linkedin: arora-sonia
+
+- name: Ambika Hegde
+  pic: ambika.jpg
+  title: Software Engineer at F5 Networks
+  linkedin: ambikagh
+
+- name: Anoosha Awais
+  pic: anoosha.jpg
+  title: Full-stack Developer
+  linkedin: anooshasaeed101
+
 - name: Neelima
-- name: Shweta
+  pic: neelima.jpg
+  title: SDE at Microsoft
+  linkedin: neelimapotharaj
+
+- name: Sweta Janagoudar
+  pic: sweta.jpg
+  title: Software Engineer
+  linkedin: swetajanagoudar
+
+- name: Akshay A
+  pic: akshay.jpg
+  title: SDE at E4 Carolinas, Inc.
+  linkedin: akshayadagale
+
+- name: Smit rao
+  pic: smit.jpg
+  title: TA at University of Toronto
+  linkedin: smitrao
+
+- name: Divya Mandyam
+  pic: divya.jpg
+  title: iOS Engineer at Figure 1
+  linkedin: divyam01986
+
+- name: Carol Hung
+  pic: carol.jpg
+  title: Computer Programmer Analyst
+  linkedin: carol-hung-b50aba48
+
+
