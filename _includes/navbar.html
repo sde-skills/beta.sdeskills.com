@@ -16,8 +16,25 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Chapters</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {% assign chapters = site.chapters | sort: "sortkey" %}
+            {% for chapter in chapters %}
+            <a class="dropdown-item" href="{{chapter.url | relative_url }}">{{chapter.title}}</a>
+            {% if chapter.title=="Mission Control" %}  
+            <div class="dropdown-divider"></div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </li>
+
+        </li>        
         <li class="nav-item">
           <a class="nav-link" href="{{ "/posts" | relative_url }}">Posts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ "/presenters" | relative_url }}">Presenters</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
