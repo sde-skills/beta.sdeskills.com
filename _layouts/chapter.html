@@ -30,6 +30,37 @@ layout: default
 
 		{{ content }}
 
+
+        {% if page.meetup-name or page.meetup-link or page.slack-meetup or page.slack-studygroup or page.slack-elves %}
+        <section id="section-meetups" class="section-wrapper">
+          <div class="container">
+            <div class="row">
+                <div class="col-lg-12 ">
+                      <h2 class="section-title">Join us</h2>
+                </div>
+              </div>          
+              <div class="row">
+                <div class="col-md-12 section-text">
+                <ul>
+                  {% if page.meetup-name %}
+                  <li>In-person meetup each week: <a href="{{ page.meetup-link }}">{{ page.meetup-name }}</a></li>
+                  {% endif %}
+                  {%if page.slack-studygroup %}
+                  <li>Slack - Join us on slack <a href="https://sdeskills.com/slack">https://sdeskills.com/slack</a> and join the following channels:
+                  <ul> 
+                    {%if page.slack-meetup %}
+                    <li>Meetup Announcements: {{ page.slack-meetup }}</li>
+                    {% endif %}
+                    <li>Study Group: {{ page.slack-studygroup }}</li>
+                    <li>Elves: {{ page.slack-elves }}</li>
+                  </ul></li>
+                  {% endif %}
+                </ul>
+                </div>
+              </div>
+            </div>      
+        </section>
+        {% endif %}
                 
         <section id="section-meetups" class="section-wrapper">
         	<div class="container">
@@ -51,6 +82,8 @@ layout: default
         	    </div>
             </div>	    
         </section>
+
+
       </div>
     </div>
   </div>
