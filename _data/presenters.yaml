@@ -1,4 +1,4 @@
-2019:
+2018-2019:
 - name: Devi Nayar
   pic: devi.jpg
   title: Co-founder SDE Skills
@@ -141,7 +141,7 @@
 
 - name: Akshay A
   pic: akshay.jpg
-  title: SDE at E4 Carolinas, Inc.
+  title: SDE at Walmart Labs
   linkedin: akshayadagale
 
 - name: Smit rao
@@ -159,4 +159,38 @@
   title: Computer Programmer Analyst
   linkedin: carol-hung-b50aba48
 
+- name: Sanjay Jayasankar
+  pic: sanjay.jpg
+  title: Senior MTS at Oracle
+  linkedin: sjayasan
+
+- name: Jasbir Kaur
+  pic: jasbir.jpg
+  title: Software Engineer at Grab
+  linkedin: jasbir-kaur-157304111
+
+- name: Monika Sharma
+  pic: monika.jpg
+  title: ex-Software Intern (LEAP) at Microsoft
+  linkedin: sharmamonika
+
+- name: Rohit Singh
+  pic: rohit.jpg
+  title: Sr. Computer Scientist at Adobe
+  linkedin: trjs
+
+- name: Abhishek Modi
+  pic: abhishek.jpg
+  title: SDE at Microsoft
+  linkedin: abhishek-aggarwal-0a683429
+
+- name: Shreeya Sharma
+  pic: shreeya.jpg
+  title: SDE at Microsoft
+  linkedin: shreeya-sharma-53036067  
+
+- name: Navneet Gupta
+  pic: navneet.jpg
+  title: Engineering Manager at Microsoft
+  linkedin: hellonavneet
 
