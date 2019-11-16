@@ -15,15 +15,15 @@ header.masthead {
     height: 100%;
     width: 100%;
     background-color: $gray-900;
-    opacity: 0.5;
+    opacity: 0.4;
   }
   .page-heading,
   .post-heading,
   .site-heading {
-    padding: 200px 0 150px;
+    padding: 150px 0 100px;
     color: white;
     @media only screen and (min-width: 768px) {
-      padding: 200px 0;
+      padding: 150px 0 100px;
     }
   }
   .page-heading,

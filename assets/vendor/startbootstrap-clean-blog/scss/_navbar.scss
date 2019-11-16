@@ -17,10 +17,11 @@
   }
   .navbar-nav {
     > li.nav-item {
-      > a {
+       a {
         font-size: 12px;
         font-weight: 800;
         letter-spacing: 1px;
+        text-decoration: none;
         text-transform: uppercase;
       }
     }
