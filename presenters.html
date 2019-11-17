@@ -14,11 +14,11 @@ form: true
   </div>
   <div class="row">
     {% for member in year[1] %}
-    <div class="col-md-3 text-center">
+    <div class="col-sm-6 col-md-4 col-lg-3 text-center">
       {% if member.pic %}
-      <img src="img/people/{{ member.pic }}" class="img-responsive img-circle border" alt="">
+      <img src="img/people/{{ member.pic }}" class="img-circle border" alt="">
       {% else %}
-      <img src="img/people/placeholder.jpg" class="img-responsive img-circle border" alt="">      
+      <img src="img/people/placeholder.jpg" class="img-circle border" alt="">      
       {% endif %}
       <p class="text">{{member.name}} 
       <a href="https://www.linkedin.com/in/{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i>
