@@ -10,7 +10,7 @@
           {% if site.email %}
           <li class="list-inline-item">
             <a href="mailto:{{ site.email | encode_email }}">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-md">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
               </span>
@@ -20,7 +20,7 @@
           {% if site.twitter_username %}
           <li class="list-inline-item">
             <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-md">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
               </span>
@@ -30,7 +30,7 @@
           {% if site.facebook_username %}
           <li class="list-inline-item">
             <a href="https://www.facebook.com/{{ site.facebook_username }}">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-md">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
               </span>
@@ -40,7 +40,7 @@
           {% if site.linkedin_username %}
           <li class="list-inline-item">
             <a href="https://www.linkedin.com/company/{{ site.linkedin_username }}">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-md">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
               </span>
@@ -50,7 +50,7 @@
           {% if site.github_username %}
           <li class="list-inline-item">
             <a href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-md">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
               </span>
@@ -58,8 +58,8 @@
           </li>
           {% endif %}
         </ul>
-        <p class="footer-text text-muted">SDE Skills is a 501(c)(3) | <a href="tel:+1 (775) 623-7529">+1 (775) 623-7529</a> | <a href="/contact">Contact Us</a></p>
-        <p class="footer-text text-muted">&copy; {{ 'now' | date: "%Y" }} {{ site.title }} | All Rights Reserved | <a href="/about">About Us</a> | <a href="/privacy">Privacy Policy</a></p>
+        <p class="footer-text text-muted">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}, a 501(c)(3) non-profit organization</p>
+        <p class="footer-text text-muted">All Rights Reserved | <a href="/contact">Contact Us</a> | <a href="/about">About Us</a> | <a href="/privacy">Privacy Policy</a></p>
       </div>
     </div>
   </div>
