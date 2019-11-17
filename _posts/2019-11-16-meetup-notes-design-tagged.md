@@ -18,53 +18,7 @@ Naga led todays session, with focus on three hand picked questions that were tag
 
 Here is the code from Aseem.
 
-```java
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-class BSTIterator {
-    
-    private Stack&lt;TreeNode&gt; stack;
-
-    public BSTIterator(TreeNode root) {
-        this.stack = new Stack();
-        updateStack(root);
-    }
-    
-    /** @return the next smallest number */
-    public int next() {
-        TreeNode node = this.stack.pop();
-        updateStack(node.right);
-        return node.val;
-    }
-    
-    /** @return whether we have a next smallest number */
-    public boolean hasNext() {
-        return !this.stack.isEmpty();
-    }
-    
-    private void updateStack(TreeNode node) {
-        TreeNode curr = node;
-        while(curr != null) {
-            this.stack.push(curr);
-            curr = curr.left;
-        }
-    }
-}
-
-/**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator obj = new BSTIterator(root);
- * int param_1 = obj.next();
- * boolean param_2 = obj.hasNext();
- */
-```
+<script src="https://gist.github.com/vivek-sdeskills/cdf43529054446fb7a49891bb744d763.js"></script>
 
 Gaurav talked about Morris Traversal.
 
