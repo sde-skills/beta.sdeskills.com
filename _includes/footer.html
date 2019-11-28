@@ -59,7 +59,10 @@
           {% endif %}
         </ul>
         <p class="footer-text text-muted">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}, a 501(c)(3) non-profit organization</p>
-        <p class="footer-text text-muted">All Rights Reserved | <a href="/contact">Contact Us</a> | <a href="/about">About Us</a> | <a href="/privacy">Privacy Policy</a></p>
+        <p class="footer-text text-muted">All Rights Reserved | 
+          <a href="{{'/contact' | relative_url }}">Contact Us</a> | 
+          <a href="{{'/about' | relative_url }}">About Us</a> | 
+          <a href="{{'/privacy' | relative_url }}">Privacy Policy</a></p>
       </div>
     </div>
   </div>

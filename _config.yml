@@ -2,8 +2,8 @@ title:              SDE Skills
 email:              website@sdeskills.com
 description:        Get upgraded of get deprecated!
 author:             Vivek K
-baseurl:            "/beta"
-url:                "http://beta.sdeskills.com"
+baseurl:            ""
+url:                "https://www.sdeskills.com"
 
 # Social Profiles
 twitter_username:   sdeskills
@@ -12,7 +12,7 @@ facebook_username:  sdeskills
 linkedin_username:  sdeskills
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-20719240-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
