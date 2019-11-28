@@ -18,7 +18,7 @@ Just by numbers, after 9+ years of serving the community, we have a strong follo
 * 1300+ members on [San francisco area meetup][4] and 
 * 130+ members in our latest local meetup [SDE Skills Toronto][5] that started in September 2019. 
 
-Our meetups are frequent and regular. We meet in-person, each week, and discuss various topics. The part that is impressive is that we are an entirely volunteer driven / volunteer led / volunteer supported group. We run an ultra lean operation, leveraging facilities and infrastructure provided by the county (thank you [KCLS.org][1]).
+Our meetups are frequent and regular. We meet in-person, each week, and discuss various topics. The part that is impressive is that we are an entirely volunteer driven / volunteer led / volunteer supported group. We run an ultra lean operation, leveraging facilities and infrastructure provided by the county (thank you [KCLS.org][1]). Look at the [list of our presenters][6]
 
 A quick glance at the meetup statistics, we have organized nearly 400 events. Our weekly meetups format has evolved over the years to the current form, where we ask our members to sign up to present any topic of their choosing. Our meetups are extremely inclusive and we actively encourage participation. We cover a broad range of topics from simple data structures to more advanced topics such as system design. 
 
@@ -31,4 +31,4 @@ Look for our next post where we talk about our plans for 2020.
 [3]: https://www.sdeskills.com/meetup-sea
 [4]: https://www.sdeskills.com/meetup-sfo
 [5]: https://www.sdeskills.com/meetup-yyz
-
+[6]: {{"/presenters" | relative_url }}
