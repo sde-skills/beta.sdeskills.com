@@ -1,0 +1,31 @@
+---
+layout: page
+title: Cracking the Coding Interviews - Practice Series
+description: Questions List for Series A
+background: '/img/bg-ctci.jpg'
+form: true
+---
+<section id="section-ctci" class="section-wrapper">
+<div class="container">   
+  <div class="row">
+  {% for weekdata in site.data.ctci %}
+    <div class="col-md-6 pb-5">
+      <div class="list-group">
+        <div class="list-group-item text-white bg-dark">
+          <h4 class="text-center">{{weekdata.week}} </h4>
+        </div>
+        {% for chapter in weekdata.chapter %}
+        <strong>{{ chapter.name}} </strong>
+        <ul class="fa-ul">
+          {% for question in chapter.questions %}
+          <li><i class="fa-li far fa-square"></i>{{ question }}</li>
+          {% endfor %}
+        </ul>        
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+</section>
+

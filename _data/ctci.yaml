@@ -1,0 +1,130 @@
+- week: Week 1
+  chapter: 
+    - name: Chapter 1 - Arrays and Strings
+      questions: 
+      - 1.1 isUnique
+      - 1.4 Palindrome Permutation
+      - 1.7 Rotate Matrix     
+    - name: Chapter 2 - Linked Lists
+      questions:
+      - 2.1 Remove Dups
+      - 2.4 Partition
+      - 2.7 Intersection        
+- week: Week 2
+  chapter: 
+    - name: Chapter 3 - Stacks and Queues
+      questions: 
+        - 3.1 Three in One
+        - 3.4 Queue via Stacks
+    - name: Chapter 4 - Trees and Graphs
+      questions:
+      - 4.1 Route Between Nodes
+      - 4.4 Check Balanced
+      - 4.7 Build Order
+      - 4.10 Check Subtree
+- week: Week 3
+  chapter: 
+    - name: Chapter 5 - Bit Manipulation
+      questions: 
+      - 5.1 Insertion
+      - 5.4 Next Number
+      - 5.7 Pairwise Swap
+- week: Week 4
+  chapter: 
+    - name: Chapter 7 - Object-Oriented Design
+      questions: 
+      - 7.1 Deck of Cards
+      - 7.4 Parking Lot
+      - 7.7 Chat Server
+      - 7.10 Minesweeper
+- week: Week 5
+  chapter: 
+    - name: Chapter 8 - Recursion and Dynamic Programming
+      questions: 
+      - 8.1 Triple Step
+      - 8.4 Power Set
+      - 8.7 Permutations without Dups
+      - 8.10 Paint Fill
+      - 8.13 Stack of Boxes
+- week: Week 6
+  chapter: 
+    - name: Chapter 9 - System Design and Scalability
+      questions: 
+      - 9.1 Stock Data
+      - 9.4 Duplicate URLs
+      - 9.7 Personal Financial Manager
+- week: Week 7
+  chapter: 
+    - name: Chapter 10 - Sorting and Searching
+      questions: 
+      - 10.1 Sorted Merge
+      - 10.4 Sorted Search, No Size
+      - 10.7 Missing Int
+      - 10.10 Rankfrom Stream
+- week: Week 8
+  chapter: 
+    - name: Chapter 12 - C and C++
+      questions: 
+      - 12.1 Last K Lines
+      - 12.2 Reverse String
+      - 12.3 Hash Table vs. STL Map
+      - 12.4 Virtual Functions
+      - 12.5 Shallow vs. Deep Copy
+      - 12.6 Volatile
+- week: Week 9
+  chapter: 
+    - name: Chapter 12 - C and C++
+      questions: 
+      - 12.7 Virtual Base Class
+      - 12.8 Copy Node
+      - 12.9 Smart Pointer
+      - 12.10 Malloc
+      - 12.11 2D Alloc
+- week: Week 10
+  chapter: 
+    - name: Chapter 15 - Threads and Locks
+      questions: 
+      - 15.1 Thread vs. Process
+      - 15.4 Deadlock-Free Class
+- week: Week 11
+  chapter: 
+    - name: Chapter 16 - Moderate
+      questions: 
+      - 16.1 Number Swapper
+      - 16.4 Tic Tac Win
+      - 16.7 Number Max
+- week: Week 12
+  chapter: 
+    - name: Chapter 16 - Moderate
+      questions: 
+      - 16.10 Living People
+      - 16.13 Bisect Squares
+      - 16.16 Sub Sort
+- week: Week 13
+  chapter: 
+    - name: Chapter 16 - Moderate
+      questions: 
+      - 16.19 Pond Sizes
+      - 16.22 Langton’s Ant
+      - 16.25 LRU Cache
+- week: Week 14
+  chapter: 
+    - name: Chapter 17 - Hard
+      questions: 
+      - 17.1 Add Without Plus
+      - 17.4 Missing Number
+      - 17.7 Baby Names
+- week: Week 15
+  chapter: 
+    - name: Chapter 17 - Hard
+      questions: 
+      - 17.10 Majority Element
+      - 17.13 Re-Space
+      - 17.16 The Masseuse
+- week: Week 16
+  chapter: 
+    - name: Chapter 17 - Hard
+      questions: 
+      - 17.19 Missing Two
+      - 17.22 Word Transformer
+      - 17.25 Word Rectangle
