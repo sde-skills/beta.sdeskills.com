@@ -16,7 +16,7 @@ $(document).ready(function() {
                 error: function(d) {
                     $("button#contactSubmit").html("Failed...").attr("disabled", "disabled");
                     setTimeout(function() {
-                        $("button#contactSubmit").html("Subscribe").prop("disabled", false)
+                        $("button#contactSubmit").html("Submit").prop("disabled", false)
                     }, 2000)
                 }
             })
