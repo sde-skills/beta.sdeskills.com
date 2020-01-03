@@ -3,7 +3,7 @@ layout: post
 title: "Thank you and looking forward to 2020!"
 subtitle: "Thank you for your support and looking forward to 2020."
 date: 2020-01-02 10:00:00 -0700
-background: '/img/bg-post.jpg'
+background: '/img/posts/2020/01/new-years-resolution.jpg'
 author: Gaurav Agarwal
 ---
 
