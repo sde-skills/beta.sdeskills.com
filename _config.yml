@@ -13,6 +13,7 @@ linkedin_username:  sdeskills
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-20719240-1 # out your google-analytics code
+facebook_pixel: 320571781954152
 
 # Build settings
 markdown:           kramdown
