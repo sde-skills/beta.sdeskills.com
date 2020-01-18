@@ -10,7 +10,6 @@ We have a vibrant slack community! Join us for a discussion.
 
 [![](/img/btn-add-to-slack.png)][sde-skills-slack]
 
-
 # SDE Skills Code of Conduct
 Given that we are a large group of people, please follow the following guidelines to help you get the most from our Slack community.
 
