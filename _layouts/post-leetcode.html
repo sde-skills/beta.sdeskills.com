@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <h2>This weeks questions.</h2>
+        <ul>
+          <li> <a href="{{page.link-easy}}">{{ page.title-easy }}</a></li>
+          <li> <a href="{{page.link-medium}}">{{ page.title-medium }}</a></li>
+          <li> <a href="{{page.link-hard}}">{{ page.title-hard }}</a></li>
+        </ul>
+
+        {{ content }}
+
+        <h2>How does this work?</h2>
+        <p>Each week, we will share 3 questions from leetcode.com from easy, medium and hard difficulty levels. Please solve the questions post your code on repl.it or ideone.com or equivalent website. Test your code against test cases in leetcode. </p>
+        <p>Do you want to participate interactively? <a href="/leetcode">Join Leetcode Practice</a>
+        </p>
+
+        <hr>
+
+        <div class="clearfix">
+
+          {% if page.previous.url %}
+          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          {% endif %}
+          {% if page.next.url %}
+          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
+              Post</span> &rarr;</a>
+          {% endif %}
+
+        </div>
+
+      </div>
+    </div>
+  </div>

@@ -19,9 +19,17 @@ This channel has 800+ members who are interested in practicing. At any point of 
 
 Dont see anyone active, post a question to start the conversation and watch the buzz grow.
 
+[![](/img/btn-add-to-slack.png)][sde-skills-slack]
+
+## Current and Past Questions
+{% for post in site.posts %}
+{% if post.layout=="post-leetcode" %}
+*  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+{% endif %}
+{% endfor %}
 
 Happy Leetcoding!
 
-[![](/img/btn-add-to-slack.png)][sde-skills-slack]
+
 
 [sde-skills-slack]: https://www.sdeskills.com/slack
