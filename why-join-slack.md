@@ -66,7 +66,7 @@ SDE Skills is a 501(c)(3) non-profit company that provides a slew of services fo
 * Volunteer groups
 	* #volunteer - Volunteer on General SDE Skills operations
 	* #elves-sfo - Help out organizing local SFO events
-	* #elves-bos - Help out organizing local SFO events
+	* #elves-bos - Help out organizing local Boston events
 
 
 [![](/img/btn-add-to-slack.png)][sde-skills-slack]
