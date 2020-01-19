@@ -16,13 +16,14 @@ google_analytics:   UA-20719240-1 # out your google-analytics code
 facebook_pixel: 320571781954152
 
 # Build settings
+future: false
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap 
   - jekyll-redirect-from
 
 collections:
