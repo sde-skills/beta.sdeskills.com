@@ -29,6 +29,6 @@ background: '/img/bg-resources.jpg'
 * [The Complete Guide to Google Interview Preparation](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
 * [How to Get a Job on Amazon’s Alexa Team](https://www.bloomberg.com/graphics/2015-cheatsheets/amazon.html)
 * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/google-interview-university)
-
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 If you feel that there are resources that should be included here,  please let us know at [resources@sdeskills.com](mailto:resources@sdeskills.com)
