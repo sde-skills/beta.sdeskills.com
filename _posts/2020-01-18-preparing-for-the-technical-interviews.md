@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preparing for the Technical Interview"
-subtitle: "Insights, focus areas from a (Former?) Recruiter at Amazon"
+subtitle: "Insights, focus areas from a Recruiter at Amazon"
 date: 2020-01-18 09:00:00 -0700
 background: '/img/posts/2020/01/interview.jpg'
 author: Jasmin Caddel, Talent Magician (Technical Recruiter at Amazon)
