@@ -4,7 +4,7 @@ title: "Preparing for the Technical Interview"
 subtitle: "Insights, focus areas from a (Former?) Recruiter at Amazon"
 date: 2020-01-18 09:00:00 -0700
 background: '/img/posts/2020/01/interview.jpg'
-author: (Former?) Recruiter at Amazon
+author: Jasmin Caddel, Talent Magician (Technical Recruiter at Amazon)
 ---
 
 *A while ago member posted this as a word document in Slack. I am trascribing here for wider reach. - SDE Skills Team*
@@ -75,5 +75,7 @@ Remember to always turn a negative into a positive: If you don’t know the answ
 Questions about your future: If asked where you see yourself in 5 years from now don’t future trip! Stay in the here and now and let them know that you’re excited about taking the next step about the interview today and that you want to grow and learn from the team.
 
 **NEVER make a negative comment about your current or past employers.** Always keep it positive! 
+
+- Jasmin Caddel [LinkedIn](https://www.linkedin.com/in/jasmincaddel/)
 
 Thank you for reading!
