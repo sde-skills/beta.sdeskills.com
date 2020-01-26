@@ -11,7 +11,7 @@ layout: default
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-12 mx-auto">
           <div class="post-heading">
             <h1>{{ page.title }}</h1>
             {% if page.subtitle %}
@@ -25,23 +25,44 @@ layout: default
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <h2>This weeks questions.</h2>
+      {% if page.session-video %}
+      <div class="col-md-6 mx-auto">
+      {%else %}
+      <div class="col-12 mx-auto">
+      {% endif %}
+        <h2>Questions:</h2>
         <ul>
           <li> <a href="{{page.link-easy}}">{{ page.title-easy }}</a></li>
           <li> <a href="{{page.link-medium}}">{{ page.title-medium }}</a></li>
           <li> <a href="{{page.link-hard}}">{{ page.title-hard }}</a></li>
         </ul>
+      </div>
+    {% if page.session-video %}
+      <div class="col-md-6">
+        <h2>Recording:</h2>
+          <iframe width="560" height="315" src="{{ page.session-video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    {% endif %}
+    </div>
 
+
+    <div class="row">
+      <div class="col-12 mx-auto">
         {{ content }}
+      </div>
+    </div>  
 
+    <div class="row">
+      <div class="col-12 mx-auto">
         <h2>How does this work?</h2>
-        <p>Each week, we will share 3 questions from leetcode.com from easy, medium and hard difficulty levels. Please solve the questions post your code on repl.it or ideone.com or equivalent website. Test your code against test cases in leetcode. </p>
-        <p>Do you want to participate interactively? <a href="/leetcode">Join Leetcode Practice</a>
+        <p>Each day/week, we will share 3 questions from leetcode.com from easy, medium and hard difficulty levels. Please solve the questions post your code on repl.it or ideone.com or equivalent website. Test your code against test cases in leetcode. </p>
+        <p>Do you want to participate interactively? <a href="/leetcode">Join Leetcode Practice</a> and look out for the solution discussion in our daily zoom session.
         </p>
+      </div>
+    </div>
 
-        <hr>
-
+    <div class="row">
+      <div class="col-12 mx-auto">
         <div class="clearfix">
 
           {% if page.previous.url %}
@@ -57,4 +78,6 @@ layout: default
 
       </div>
     </div>
+
+
   </div>

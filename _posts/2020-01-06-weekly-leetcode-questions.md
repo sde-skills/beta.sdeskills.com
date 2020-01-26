@@ -1,6 +1,6 @@
 ---
 layout: post-leetcode
-title: "Leetcode: 2020-01-06 to 2020-01-10"
+title: "Weekly Leetcode: 2020-01-06 to 2020-01-10"
 subtitle: "Weekly leetcode questions"
 date: 2020-01-06 10:00:00 -0700
 background: '/img/bg-leetcode.jpg'
