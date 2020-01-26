@@ -14,7 +14,7 @@ calendar: 'https://calendar.google.com/calendar/embed?wkst=1&ctz=America%2FLos_A
         <p>SDE Skills has been operating in the east side for over <strong>9.5</strong> years. We regularly meet each week at one of the east side libraries to practice various programming interview topics.</p>
         <p><strong>Note: </strong> our meetups are full with long waitlists, please do not let that discourage you. I urge you to RSVP, and add yourself to the waitlist. After this, please contact the organizers via a meetup message and introduce yourself. We will review and see if we can sneak you in one of the upcoming meetups.</p>
         <p>
-        <a href="https://meetup.com/skillets">
+        <a class="btn" role="button" href="https://www.meetup.com/skillets/?action=join">
 		<img src="/img/btn-join-now.png">
 		</a>
 		</p>
