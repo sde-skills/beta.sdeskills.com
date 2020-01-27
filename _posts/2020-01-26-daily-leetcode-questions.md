@@ -11,7 +11,7 @@ title-medium:  'Medium: [086] Partition List (34%)'
 link-medium:   'https://leetcode.com/problems/partition-list'
 title-hard:    'Hard: [629] K Inverse Pairs Array (28%)'
 link-hard:     'https://leetcode.com/problems/k-inverse-pairs-array'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/r6Wk6ODsYog'
 ---
 
 
