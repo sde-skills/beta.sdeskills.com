@@ -12,12 +12,4 @@ link-medium:   'https://leetcode.com/problems/total-hamming-distance'
 title-hard:    'Hard: [004] Median of Two Sorted Arrays (24%) '
 link-hard:     'https://leetcode.com/problems/median-of-two-sorted-arrays'
 session-video: 'https://www.youtube.com/embed/KoONZvT_vIk'
-
 ---
-
-
-
-
-
-
-

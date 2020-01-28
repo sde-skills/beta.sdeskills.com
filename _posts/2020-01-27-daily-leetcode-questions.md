@@ -11,22 +11,5 @@ title-medium:  'Medium: [442] Find All Duplicates in an Array (58%)'
 link-medium:   'https://leetcode.com/problems/find-all-duplicates-in-an-array'
 title-hard:    'Hard: [847] Shortest Path Visiting All Nodes (41%)'
 link-hard:     'https://leetcode.com/problems/shortest-path-visiting-all-nodes'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/P88Tb1AL_Gs'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
