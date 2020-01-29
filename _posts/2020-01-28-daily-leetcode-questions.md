@@ -11,12 +11,5 @@ title-medium:  'Medium: [222] Count Complete Tree Nodes (40%)'
 link-medium:   'https://leetcode.com/problems/count-complete-tree-nodes'
 title-hard:    'Hard: [975] Odd Even Jump (44%)'
 link-hard:     'https://leetcode.com/problems/odd-even-jump'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/JbEv333N0qU'
 ---
-
-
-
-
-
-
-
