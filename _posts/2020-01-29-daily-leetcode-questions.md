@@ -11,5 +11,5 @@ title-medium:  'Medium: [947] Most Stones Removed with Same Row or Column (55%)'
 link-medium:   'https://leetcode.com/problems/most-stones-removed-with-same-row-or-column'
 title-hard:    'Hard: [410] Split Array Largest Sum  (43%)'
 link-hard:     'https://leetcode.com/problems/split-array-largest-sum'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/FcJGO2JqZC0'
 ---

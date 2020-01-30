@@ -13,15 +13,3 @@ title-hard:    'Hard: [629] K Inverse Pairs Array (28%)'
 link-hard:     'https://leetcode.com/problems/k-inverse-pairs-array'
 session-video: 'https://www.youtube.com/embed/r6Wk6ODsYog'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
