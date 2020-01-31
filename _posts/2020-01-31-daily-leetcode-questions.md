@@ -11,5 +11,5 @@ title-medium:  'Medium: [498] Diagonal Traverse (45%)'
 link-medium:   'https://leetcode.com/problems/diagonal-traverse'
 title-hard:    'Hard: [786] K-th Smallest Prime Fraction (33%)'
 link-hard:     'https://leetcode.com/problems/k-th-smallest-prime-fraction'
-session-video: 'https://www.youtube.com/embed/g6dKcoO8LeE'
+session-video-disabled: 'https://www.youtube.com/embed/?'
 ---
