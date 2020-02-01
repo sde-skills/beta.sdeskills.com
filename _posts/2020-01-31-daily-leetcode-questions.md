@@ -11,5 +11,5 @@ title-medium:  'Medium: [334] Increasing Triplet Subsequence (40%)'
 link-medium:   'https://leetcode.com/problems/increasing-triplet-subsequence'
 title-hard:    'Hard: [087] Scramble String (30%)'
 link-hard:     'https://leetcode.com/problems/scramble-string'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/M5C2ab2sHPY'
 ---
