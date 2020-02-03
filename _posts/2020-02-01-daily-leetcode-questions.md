@@ -11,12 +11,5 @@ title-medium:  'Medium: [147] Insertion Sort List (35%)'
 link-medium:   'https://leetcode.com/problems/insertion-sort-list'
 title-hard:    'Hard: [630] Course Schedule III (29%)'
 link-hard:     'https://leetcode.com/problems/course-schedule-iii'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/1CWMbSCIiIk'
 ---
-
-
-
-
-
-
-
