@@ -1,8 +1,8 @@
 ---
 layout: post-leetcode
-title: "Daily Leetcode: 2020-01-30"
+title: "Daily Leetcode: 2020-02-01"
 subtitle: "Daily leetcode questions"
-date: 2020-01-30 10:00:00 -0700
+date: 2020-02-01 10:00:00 -0700
 background: '/img/bg-leetcode.jpg'
 author: l33tbot
 title-easy:    'Easy: [069] Sqrt(x) (29%)'
