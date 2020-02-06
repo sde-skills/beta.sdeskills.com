@@ -11,5 +11,5 @@ title-medium:  'Medium: [882] Random Point in Non-overlapping Rectangles (32%)'
 link-medium:   'https://leetcode.com/problems/random-point-in-non-overlapping-rectangles'
 title-hard:    'Hard: [668] Kth Smallest Number in Multiplication Table (41%)'
 link-hard:     'https://leetcode.com/problems/kth-smallest-number-in-multiplication-table'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video: 'https://www.youtube.com/embed/hqRiyoxMrZY'
 ---
