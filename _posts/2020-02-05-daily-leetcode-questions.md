@@ -11,10 +11,5 @@ title-medium:  'Medium: [399] Evaluate Division (43%)'
 link-medium:   'https://leetcode.com/problems/evaluate-division'
 title-hard:    'Hard: [295] Find Median from Data Stream (31%)'
 link-hard:     'https://leetcode.com/problems/find-median-from-data-stream'
-session-video-disabled: 'https://www.youtube.com/embed/?'
+session-video-disabled: 'https://www.youtube.com/embed/pBM-4RIi678'
 ---
-
-
-
-
-
