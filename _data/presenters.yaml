@@ -1,3 +1,44 @@
+2020:
+- name: Monika Sharma
+  pic: monika.jpg
+  title: ex-Software Intern (LEAP) at Microsoft
+  linkedin: sharmamonika
+
+- name: Dippy Aggarwal
+  pic: dippy.jpg
+  title: Software Development Engineer at Intel Corporation
+  linkedin: dippyaggarwal
+
+- name: Vivek K
+  pic: vivek.jpg
+  title: Eng Mgr at Facebook
+  linkedin: vkirub
+
+- name: Bhavesh Patel
+  pic: bhavesh.jpg
+  title: Sr. SDE at Microsoft
+  linkedin: patel-bhavesh
+
+- name: Saba Gour
+  pic: default.jpg
+  title: Sr Java Developer at T-Mobile
+  linkedin: sabagour
+
+- name: Aniruddha Singh Gautam
+  pic: aniruddha.jpg
+  title: Software engineer with expertise in cloud platforms - OpenStack and Kubernetes
+  linkedin: aniruddha-singh-gautam
+
+- name: Aseem Puri
+  pic: aseem.jpg
+  title: Software Engineer at Nordstorm
+  linkedin: aseempuri
+
+- name: Sonia Arora
+  pic: sonia.jpg
+  title: SDE / Data Science
+  linkedin: arora-sonia
+
 2018-2019:
 - name: Devi Nayar
   pic: devi.jpg
