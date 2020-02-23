@@ -39,6 +39,21 @@
   title: SDE / Data Science
   linkedin: arora-sonia
 
+- name: Patrick Cosmo
+  pic: patrick.jpg
+  title: Engineering Manager at Google
+  linkedin: pcosmo
+
+- name: Dennis Kormaleva
+  pic: dennis.jpg
+  title: Sr. Software Engineer at Amazon
+  linkedin: dkormalev
+
+- name: Daniel Cheng
+  pic: daniel.jpg
+  title: Sr. Software Developer at EBlock
+  linkedin: danielwingheicheng
+
 2018-2019:
 - name: Devi Nayar
   pic: devi.jpg
