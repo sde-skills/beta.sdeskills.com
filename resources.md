@@ -5,6 +5,11 @@ description: Here are some great resources to help you with your preparation.
 background: '/img/bg-resources.jpg'
 ---
 
+# SDE Skills Resources
+* [SDE Skills Slack Workspace](https://sdeskills.com/slack)
+* [SDE Skills YouTube Channel](https://www.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg)
+* [Handouts and Code on GitHub](https://github.com/sde-skills/meetupHandoutsAndCode)
+
 # Websites
 * [Techie Delight](http://www.techiedelight.com/)
 * [SPOJ](http://www.spoj.com/)
