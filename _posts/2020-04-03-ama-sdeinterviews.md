@@ -14,9 +14,10 @@ The list is compiled based on a Q/A session conducted on April 3rd, 2020 online 
 
 ## <p align="justify"> I'm preparing for Amazon as a fresher and I still have 3 months before my graduation. I'm from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you'd like to give me, specific to my preparation for Amazon?
 If it is of any consolation, I am also from a non-CS background (Civil Engineering) to be precise. Amazon will probe you on leadership principles, so make sure you read up on what they are and try to remember incidents where you have embodied these principles in your life so far.
-</p>
+
+
 ## Is there a minimum years of experience that facebook looks for when hiring senior software engineers (L5) role?
-FB levels are E3 (new grad, learning to be independent, solves tech problems where business ambiguity is already resolved, and most technical ambiguity is resolved), E4 (fully independent execution, business ambiguity is mostly resolved, and tech ambiguity is not resolved), E5 is seen as a domain leader ( solves complex business problems by resolving business ambiguity). E5s are pseudo Team leads, E6s are more like Principal Engineers at Amazon, where they identify the business problems, and identify trends / patterns.
+Facebook (or FB) levels are E3 (new grad, learning to be independent, solves tech problems where business ambiguity is already resolved, and most technical ambiguity is resolved), E4 (fully independent execution, business ambiguity is mostly resolved, and tech ambiguity is not resolved), E5 is seen as a domain leader ( solves complex business problems by resolving business ambiguity). E5s are pseudo Team leads, E6s are more like Principal Engineers at Amazon, where they identify the business problems, and identify trends / patterns.
 So experience years generally doesn’t mean much. E5s can be as few years of experience as 4y or as much as 20+y. E5 is considered a terminal level (you don’t have to move to E6, can stay E5 forever).
 
 ## Another question about facebook hiring process. How do we get to know details about the number of parallel interviews we can take? Like product managers can interview for TPM role and PM role in parallel. Some recruiters don’t seem to tell this information. Is there a place it is documented?
@@ -53,7 +54,7 @@ On the question bank for each company, Amazon didn’t have anything like that, 
 
 To be fully transparent, Bhavesh is the new face of SDE Skills and is taking it to new heights, with support from Gaurav and others. I am very glad that there are a dozen of so regular folks who are committed to participating on a regular basis. This was the dream that I had for SDE Skills.
 
-## Have you seen Amazon interviewing a candidate before the 6 month cool off period? Do they look at detailed feedback? Do they include the questions asked as well? If so, would it be considered if the question is really tough? I was asked to design and implement a game after 25 mins of LP. So it was difficult to do in 35 minutes.
+## Have you seen Amazon interviewing a candidate before the 6 month cool off period? Do they look at detailed feedback? Do they include the questions asked as well? If so, would it be considered if the question is really tough? I was asked to design and implement a game after 25 mins of leadership principles. So it was difficult to do in 35 minutes.
 ### Have you seen Amazon interviewing a candidate before the 6 month cool off period? 
 
 * All the time. Think of it like this, Amazon doesn’t want to waste your time or their time by repeatedly interviewing you. There is nothing magical about the 6 month number. This is not just for Amazon but for most companies. At Amazon, a Hiring Manager can override this (and even bring you onsite the next day after a failed interview). If you succeed then no harm/no foul. But if you fail, then the HM loses their street-creds. This is a pretty bad thing for them.
@@ -76,9 +77,10 @@ c. Co-ordinate Geometry based problems (extends my love for math)
 ## I recently heard that many companies are avoiding DP. Have you heard that?
 Yes, Dynamic programming questions are a hit or miss. It is a poor indicator of the candidate's thought process. If they know the approach, they can solve it, if they don’t, then they can’t “derive” this on the fly. And reason 2 is the interviewers are terrible at DP themselves. 
 
-Liked this post? Check out and participate in our active sessions by joining our slack channel: sde-skills.slack.com. SDE Skills is a non-profit group founded by Vivekananda Kirubanandan, and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
+## Liked this post? Check out and participate in our active sessions by joining our [slack channel][4]. SDE Skills is a non-profit group founded by [Vivekananda Kirubanandan][1], and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
 
 
 [1]: https://www.linkedin.com/in/vkirub
 [2]: https://www.linkedin.com/in/patel-bhavesh
 [3]: https://www.linkedin.com/in/gauravagarwalcs
+[4]: http://sde-skills.slack.com
