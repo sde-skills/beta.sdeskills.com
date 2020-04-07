@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Software engineering interviews"
-subtitle: "Ask Me Anything session"
+title: "Insights into Software Engineering Preparation and Hiring Process"
+subtitle: "Notes from AMA (Ask Me Anything) session "
 date: 2020-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
@@ -77,7 +77,7 @@ c. Co-ordinate Geometry based problems (extends my love for math)
 ## I recently heard that many companies are avoiding DP. Have you heard that?
 Yes, Dynamic programming questions are a hit or miss. It is a poor indicator of the candidate's thought process. If they know the approach, they can solve it, if they don’t, then they can’t “derive” this on the fly. And reason 2 is the interviewers are terrible at DP themselves. 
 
-## Liked this post? Check out and participate in our active sessions by joining our [slack channel][4]. SDE Skills is a non-profit group founded by [Vivekananda Kirubanandan][1], and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
+### Liked this post? Check out and participate in our active sessions by joining our [slack channel][4]. SDE Skills is a non-profit group founded by [Vivekanand Kirubanandan][1], and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
 
 
 [1]: https://www.linkedin.com/in/vkirub
