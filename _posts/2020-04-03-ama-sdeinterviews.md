@@ -6,13 +6,13 @@ date: 2020-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
 ---
-
+<p align="justify">
 For any of you who are either exploring job opportunities or considering a move, questions around the hiring process, preparation strategies, and currently the newly added concerns around coronavirus, are common and often asked across multiple forums on the web. 
 This post addresses some of them. 
 
 The list is compiled based on a Q/A session conducted on April 3rd, 2020 online on SDE skills forum. The session was led by [Vivekanand Kirubanandan][1], who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
 
-## <p align="justify"> I'm preparing for Amazon as a fresher and I still have 3 months before my graduation. I'm from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you'd like to give me, specific to my preparation for Amazon?
+## I'm preparing for Amazon as a fresher and I still have 3 months before my graduation. I'm from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you'd like to give me, specific to my preparation for Amazon?
 If it is of any consolation, I am also from a non-CS background (Civil Engineering) to be precise. Amazon will probe you on leadership principles, so make sure you read up on what they are and try to remember incidents where you have embodied these principles in your life so far.
 
 
@@ -70,14 +70,14 @@ To be fully transparent, Bhavesh is the new face of SDE Skills and is taking it 
 
 ## What are your 3 favorite topics?
 From a Interview programming perspective, I like 
-a. Dynamic Programming ( used to be Mathematical Induction and Recursion before CS).
-b. Trees (not Graphs, fell in love with it when I learnt to serialize and deserialize)
-c. Co-ordinate Geometry based problems (extends my love for math)
+1. Dynamic Programming ( used to be Mathematical Induction and Recursion before CS).
+2. Trees (not Graphs, fell in love with it when I learnt to serialize and deserialize)
+3. Co-ordinate Geometry based problems (extends my love for math)
 
 ## I recently heard that many companies are avoiding DP. Have you heard that?
 Yes, Dynamic programming questions are a hit or miss. It is a poor indicator of the candidate's thought process. If they know the approach, they can solve it, if they don’t, then they can’t “derive” this on the fly. And reason 2 is the interviewers are terrible at DP themselves. 
 
-### Liked this post? Check out and participate in our active sessions by joining our [slack channel][4]. SDE Skills is a non-profit group founded by [Vivekanand Kirubanandan][1], and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
+### Liked this post or have further questions? Check out and participate in our active sessions by joining our [slack channel][4]. SDE Skills is a non-profit group founded by [Vivekanand Kirubanandan][1], and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
 
 
 [1]: https://www.linkedin.com/in/vkirub
