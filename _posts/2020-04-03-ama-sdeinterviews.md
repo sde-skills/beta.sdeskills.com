@@ -6,15 +6,15 @@ date: 2020-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
 ---
-<p align="justify">
+
 For any of you who are either exploring job opportunities or considering a move, questions around the hiring process, preparation strategies, and currently the newly added concerns around coronavirus, are common and often asked across multiple forums on the web. 
 This post addresses some of them. 
 
 The list is compiled based on a Q/A session conducted on April 3rd, 2020 online on SDE skills forum. The session was led by [Vivekanand Kirubanandan][1], who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
 
-## I'm preparing for Amazon as a fresher and I still have 3 months before my graduation. I'm from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you'd like to give me, specific to my preparation for Amazon?
+## <p align="justify"> I'm preparing for Amazon as a fresher and I still have 3 months before my graduation. I'm from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you'd like to give me, specific to my preparation for Amazon?
 If it is of any consolation, I am also from a non-CS background (Civil Engineering) to be precise. Amazon will probe you on leadership principles, so make sure you read up on what they are and try to remember incidents where you have embodied these principles in your life so far.
-
+</p>
 ## Is there a minimum years of experience that facebook looks for when hiring senior software engineers (L5) role?
 FB levels are E3 (new grad, learning to be independent, solves tech problems where business ambiguity is already resolved, and most technical ambiguity is resolved), E4 (fully independent execution, business ambiguity is mostly resolved, and tech ambiguity is not resolved), E5 is seen as a domain leader ( solves complex business problems by resolving business ambiguity). E5s are pseudo Team leads, E6s are more like Principal Engineers at Amazon, where they identify the business problems, and identify trends / patterns.
 So experience years generally doesn’t mean much. E5s can be as few years of experience as 4y or as much as 20+y. E5 is considered a terminal level (you don’t have to move to E6, can stay E5 forever).
@@ -54,17 +54,18 @@ On the question bank for each company, Amazon didn’t have anything like that, 
 To be fully transparent, Bhavesh is the new face of SDE Skills and is taking it to new heights, with support from Gaurav and others. I am very glad that there are a dozen of so regular folks who are committed to participating on a regular basis. This was the dream that I had for SDE Skills.
 
 ## Have you seen Amazon interviewing a candidate before the 6 month cool off period? Do they look at detailed feedback? Do they include the questions asked as well? If so, would it be considered if the question is really tough? I was asked to design and implement a game after 25 mins of LP. So it was difficult to do in 35 minutes.
-# Have you seen Amazon interviewing a candidate before the 6 month cool off period? 
+### Have you seen Amazon interviewing a candidate before the 6 month cool off period? 
 
-All the time. Think of it like this, Amazon doesn’t want to waste your time or their time by repeatedly interviewing you. There is nothing magical about the 6 month number. This is not just for Amazon but for most companies. At Amazon, a Hiring Manager can override this (and even bring you onsite the next day after a failed interview). If you succeed then no harm/no foul. But if you fail, then the HM loses their street-creds. This is a pretty bad thing for them.
+* All the time. Think of it like this, Amazon doesn’t want to waste your time or their time by repeatedly interviewing you. There is nothing magical about the 6 month number. This is not just for Amazon but for most companies. At Amazon, a Hiring Manager can override this (and even bring you onsite the next day after a failed interview). If you succeed then no harm/no foul. But if you fail, then the HM loses their street-creds. This is a pretty bad thing for them.
 
-* Do they look at detailed feedback
-All feedback is available, so if you did poorly in one area, expect to be “probed” on that one in your subsequent interview 1 year later even. 
+### Do they look at detailed feedback
+* All feedback is available, so if you did poorly in one area, expect to be “probed” on that one in your subsequent interview 1 year later even. 
 
-* Do they include the questions asked as well? 
-Yes, it is mostly like a transcript + comments. In QRFRA format Question, Response, Followup, Response, Analysis.
-* If so, would it be considered if the question is really tough? 
-Not really, it depends on the analysis. If it says, the candidate did not ask any good quality follow up questions, ability to deal with ambiguity is poor. There is really nothing that is time-bound here.
+### Do they include the questions asked as well? 
+* Yes, it is mostly like a transcript + comments. In QRFRA format Question, Response, Followup, Response, Analysis.
+
+### If so, would it be considered if the question is really tough? 
+* Not really, it depends on the analysis. If it says, the candidate did not ask any good quality follow up questions, ability to deal with ambiguity is poor. There is really nothing that is time-bound here.
 
 ## What are your 3 favorite topics?
 From a Interview programming perspective, I like 
@@ -77,7 +78,7 @@ Yes, Dynamic programming questions are a hit or miss. It is a poor indicator of 
 
 Liked this post? Check out and participate in our active sessions by joining our slack channel: sde-skills.slack.com. SDE Skills is a non-profit group founded by Vivekananda Kirubanandan, and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
 
-</p>
+
 [1]: https://www.linkedin.com/in/vkirub
 [2]: https://www.linkedin.com/in/patel-bhavesh
 [3]: https://www.linkedin.com/in/gauravagarwalcs
