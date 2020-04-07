@@ -6,7 +6,7 @@ date: 2020-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
 ---
-
+<p align="justify">
 For any of you who are either exploring job opportunities or considering a move, questions around the hiring process, preparation strategies, and currently the newly added concerns around coronavirus, are common and often asked across multiple forums on the web. 
 This post addresses some of them. 
 
@@ -54,7 +54,7 @@ On the question bank for each company, Amazon didn’t have anything like that, 
 To be fully transparent, Bhavesh is the new face of SDE Skills and is taking it to new heights, with support from Gaurav and others. I am very glad that there are a dozen of so regular folks who are committed to participating on a regular basis. This was the dream that I had for SDE Skills.
 
 ## Have you seen Amazon interviewing a candidate before the 6 month cool off period? Do they look at detailed feedback? Do they include the questions asked as well? If so, would it be considered if the question is really tough? I was asked to design and implement a game after 25 mins of LP. So it was difficult to do in 35 minutes.
-* Have you seen Amazon interviewing a candidate before the 6 month cool off period? 
+# Have you seen Amazon interviewing a candidate before the 6 month cool off period? 
 
 All the time. Think of it like this, Amazon doesn’t want to waste your time or their time by repeatedly interviewing you. There is nothing magical about the 6 month number. This is not just for Amazon but for most companies. At Amazon, a Hiring Manager can override this (and even bring you onsite the next day after a failed interview). If you succeed then no harm/no foul. But if you fail, then the HM loses their street-creds. This is a pretty bad thing for them.
 
@@ -77,6 +77,7 @@ Yes, Dynamic programming questions are a hit or miss. It is a poor indicator of 
 
 Liked this post? Check out and participate in our active sessions by joining our slack channel: sde-skills.slack.com. SDE Skills is a non-profit group founded by Vivekananda Kirubanandan, and currently co-organized by [Bhavesh Patel][2] and [Gaurav Agarwal][3], along with thousands of active members and volunteers. 
 
+</p>
 [1]: https://www.linkedin.com/in/vkirub
 [2]: https://www.linkedin.com/in/patel-bhavesh
 [3]: https://www.linkedin.com/in/gauravagarwalcs
