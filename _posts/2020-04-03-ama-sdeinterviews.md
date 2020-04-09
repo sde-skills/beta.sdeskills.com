@@ -6,6 +6,7 @@ date: 2020-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
 ---
+
 For any of you who are either exploring job opportunities or considering a move, questions around the hiring process, preparation strategies, and currently the newly added concerns around coronavirus, are common and often asked across multiple forums on the web. This post addresses some of them.
 
 The list is compiled based on a Q/A session conducted on April 3rd, 2020 online on SDE skills forum. The session was led by [Vivekanand Kirubanandan][1], who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
@@ -36,8 +37,7 @@ Bar Raiser (or BR) is a role that is sort of an Amazon Peculiarity. The idea is 
 
 ##### Do you have any idea for google interview for one year experience candidates? Practicing Leetcode problems is enough?
 
-I do not think there is anything magical about Google’s interviews. 1y experience puts you in the junior end of the spectrum. This means that there is no expectation from you in terms of any real world experience. This is what Google says they are looking for (<https://careers.google.com/how-we-hire/interview/#onsite-interviews>):
-
+I do not think there is anything magical about Google’s interviews. 1y experience puts you in the junior end of the spectrum. This means that there is no expectation from you in terms of any real world experience. This is what Google says they are looking for (https://careers.google.com/how-we-hire/interview/#onsite-interviews):
 1. General cognitive ability
 2. Leadership
 3. “Googleyness”
