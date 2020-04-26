@@ -1,0 +1,144 @@
+- name: Daily Leetcode - 2020-01-24
+  questions:
+    - title: 'Easy: [482] License Key Formatting (39%)'
+      link:  'https://leetcode.com/problems/license-key-formatting'
+    - title: 'Medium: [436] Find Right Interval (42%)'
+      link:  'https://leetcode.com/problems/find-right-interval'
+    - title: 'Hard: [818] Race Car (28%)'
+      link:  'https://leetcode.com/problems/race-car'
+  video: 'https://www.youtube.com/embed/u6RJrgjXB_U'
+- name: Daily Leetcode - 2020-01-25
+  questions: 
+    - title: 'Easy: [876] Middle of the Linked List (74%) '
+      link:  'https://leetcode.com/problems/middle-of-the-linked-list'
+    - title: 'Medium: [477] Total Hamming Distance (48%) '
+      link:  'https://leetcode.com/problems/total-hamming-distance'
+    - title: 'Hard: [004] Median of Two Sorted Arrays (24%) '
+      link:  'https://leetcode.com/problems/median-of-two-sorted-arrays'
+  video: 'https://www.youtube.com/embed/KoONZvT_vIk'
+- name: Daily Leetcode - 2020-01-26
+  questions:
+    - title: 'Easy: [257] Binary Tree Paths (42%)'
+      link:  'https://leetcode.com/problems/binary-tree-paths'
+    - title: 'Medium: [086] Partition List (34%)'
+      link:  'https://leetcode.com/problems/partition-list'
+    - title: 'Hard: [629] K Inverse Pairs Array (28%)'
+      link:  'https://leetcode.com/problems/k-inverse-pairs-array'
+  video: 'https://www.youtube.com/embed/r6Wk6ODsYog'
+- name: Daily Leetcode - 2020-01-27
+  questions:
+    - title: 'Easy: [575] Distribute Candies (58%)'
+      link:  'https://leetcode.com/problems/distribute-candies'
+    - title: 'Medium: [442] Find All Duplicates in an Array (58%)'
+      link:  'https://leetcode.com/problems/find-all-duplicates-in-an-array'
+    - title: 'Hard: [847] Shortest Path Visiting All Nodes (41%)'
+      link:  'https://leetcode.com/problems/shortest-path-visiting-all-nodes'
+  video: 'https://www.youtube.com/embed/P88Tb1AL_Gs'
+- name: "Daily Leetcode: 2020-01-28"
+  questions:
+    - title: 'Easy: [001] Two Sum (45%)'
+      link:  'https://leetcode.com/problems/two-sum'
+    - title: 'Medium: [222] Count Complete Tree Nodes (40%)'
+      link:  'https://leetcode.com/problems/count-complete-tree-nodes'
+    - title: 'Hard: [975] Odd Even Jump (44%)'
+      link:  'https://leetcode.com/problems/odd-even-jump'
+  video: 'https://www.youtube.com/embed/JbEv333N0qU'
+- name: "Daily Leetcode: 2020-01-29"
+  questions:
+    - title: 'Easy: [929] Unique Email Addresses (68%)'
+      link:  'https://leetcode.com/problems/unique-email-addresses'
+    - title: 'Medium: [947] Most Stones Removed with Same Row or Column (55%)'
+      link:  'https://leetcode.com/problems/most-stones-removed-with-same-row-or-column'
+    - title: 'Hard: [410] Split Array Largest Sum  (43%)'
+      link:  'https://leetcode.com/problems/split-array-largest-sum'
+  video: 'https://www.youtube.com/embed/FcJGO2JqZC0'
+- name: "Daily Leetcode: 2020-01-30"
+  questions:
+    - title: 'Easy: [226] Invert Binary Tree (54%)'
+      link:  'https://leetcode.com/problems/invert-binary-tree'
+    - title: 'Medium: [498] Diagonal Traverse (45%)'
+      link:  'https://leetcode.com/problems/diagonal-traverse'
+    - title: 'Hard: [786] K-th Smallest Prime Fraction (33%)'
+      link:  'https://leetcode.com/problems/k-th-smallest-prime-fraction'
+  video: 'https://www.youtube.com/embed/g6dKcoO8LeE'
+- name: "Daily Leetcode: 2020-01-31"
+  questions:
+    - title: 'Easy: [590] N-ary Tree Postorder Traversal (47%)'
+      link:  'https://leetcode.com/problems/n-ary-tree-postorder-traversal'
+    - title: 'Medium: [334] Increasing Triplet Subsequence (40%)'
+      link:  'https://leetcode.com/problems/increasing-triplet-subsequence'
+    - title: 'Hard: [087] Scramble String (30%)'
+      link:  'https://leetcode.com/problems/scramble-string'
+  video: 'https://www.youtube.com/embed/M5C2ab2sHPY'
+- name: "Daily Leetcode: 2020-02-01"
+  questions:
+    - title: 'Easy: [069] Sqrt(x) (29%)'
+      link:  'https://leetcode.com/problems/sqrtx'
+    - title: 'Medium: [147] Insertion Sort List (35%)'
+      link:  'https://leetcode.com/problems/insertion-sort-list'
+    - title: 'Hard: [630] Course Schedule III (29%)'
+      link:  'https://leetcode.com/problems/course-schedule-iii'
+  video: 'https://www.youtube.com/embed/1CWMbSCIiIk'
+- name: "Daily Leetcode: 2020-02-02"
+  questions:
+    - title: 'Easy: [653] Two Sum IV - Input is a BST (50%)'
+      link:  'https://leetcode.com/problems/two-sum-iv-input-is-a-bst'
+    - title: 'Medium: [813] Largest Sum of Averages (41%)'
+      link:  'https://leetcode.com/problems/largest-sum-of-averages'
+    - title: 'Hard: [691] Stickers to Spell Word (35%)'
+      link:  'https://leetcode.com/problems/stickers-to-spell-word'
+  video: 'https://www.youtube.com/embed/h1zXmuH4Xyk'
+- name: "Daily Leetcode: 2020-02-03"
+  questions:
+    - title: 'Easy: [501] Find Mode in Binary Search Tree (38%)'
+      link:  'https://leetcode.com/problems/find-mode-in-binary-search-tree'
+    - title: 'Medium: [880] Random Pick with Weight (45%)'
+      link:  'https://leetcode.com/problems/random-pick-with-weight'
+    - title: 'Hard: [099] Recover Binary Search Tree (32%)'
+      link:  'https://leetcode.com/problems/recover-binary-search-tree'
+  video: 'https://www.youtube.com/embed/zSnun8QkrBU'
+- name: "Daily Leetcode: 2020-02-04"
+  questions:
+    - title: 'Easy: [572] Subtree of Another Tree (40%)'
+      link:  'https://leetcode.com/problems/subtree-of-another-tree'
+    - title: 'Medium: [882] Random Point in Non-overlapping Rectangles (32%)'
+      link:  'https://leetcode.com/problems/random-point-in-non-overlapping-rectangles'
+    - title: 'Hard: [668] Kth Smallest Number in Multiplication Table (41%)'
+      link:  'https://leetcode.com/problems/kth-smallest-number-in-multiplication-table'
+  video: 'https://www.youtube.com/embed/hqRiyoxMrZY'
+- name: "Daily Leetcode: 2020-02-05"
+  questions:
+    - title: 'Easy: [561] Array Partition I (67%)'
+      link:  'https://leetcode.com/problems/array-partition-i'
+    - title: 'Medium: [399] Evaluate Division (43%)'
+      link:  'https://leetcode.com/problems/evaluate-division'
+    - title: 'Hard: [295] Find Median from Data Stream (31%)'
+      link:  'https://leetcode.com/problems/find-median-from-data-stream'
+  video: 'https://www.youtube.com/embed/pBM-4RIi678'
+- name: "Daily Leetcode: 2020-02-06"
+  questions:
+    - title: 'Easy: [532] K-diff Pairs in an Array (28%)'
+      link:  'https://leetcode.com/problems/k-diff-pairs-in-an-array'
+    - title: 'Medium: [537] Complex Number Multiplication (64%)'
+      link:  'https://leetcode.com/problems/complex-number-multiplication'
+    - title: 'Hard: [564] Find the Closest Palindrome (17%)'
+      link:  'https://leetcode.com/problems/find-the-closest-palindrome'
+  video: 'https://www.youtube.com/embed/L357MCdLQqI'
+- name: "Daily Leetcode: 2020-02-07"
+  questions:
+    - title: 'Easy: [172] Factorial Trailing Zeroes (37%)'
+      link:  'https://leetcode.com/problems/factorial-trailing-zeroes'
+    - title: 'Medium: [787] Cheapest Flights Within K Stops (30%)'
+      link:  'https://leetcode.com/problems/cheapest-flights-within-k-stops'
+    - title: 'Hard: [335] Self Crossing (26%)'
+      link:  'https://leetcode.com/problems/self-crossing'
+  video: 'https://www.youtube.com/embed/L4braoMKPBI'
+- name: "Daily Leetcode: 2020-02-08"
+  questions:
+    - title: 'Easy: [849] Maximize Distance to Closest Person (38%)'
+      link:  'https://leetcode.com/problems/maximize-distance-to-closest-person'
+    - title: 'Medium: [089] Gray Code (43%)'
+      link:  'https://leetcode.com/problems/gray-code'
+    - title: 'Hard: [810] Chalkboard XOR Game (40%)'
+      link:  'https://leetcode.com/problems/chalkboard-xor-game'
+  video: 'https://www.youtube.com/embed/lmE2Kah6rKc'

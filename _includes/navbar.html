@@ -28,7 +28,6 @@
             {% endfor %}
           </div>
         </li>
-
         </li>        
         <li class="nav-item">
           <a class="nav-link" href="{{ '/posts/' | relative_url }}">Posts</a>
@@ -38,6 +37,15 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ '/resources' | relative_url }}">Resources</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{ '/ctci' | relative_url }}">CTCI - Lesson Plan</a>
+            <a class="dropdown-item" href="{{ '/leetcode' | relative_url }}">Leetcode - Practice</a>
+            <a class="dropdown-item" href="{{ '/study-groups' | relative_url }}">Study Groups</a>
+            <a class="dropdown-item" href="{{ '/why-join-slack' | relative_url }}">Why Join Slack</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>

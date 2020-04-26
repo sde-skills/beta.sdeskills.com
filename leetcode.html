@@ -1,0 +1,67 @@
+---
+layout: page
+title: Leetcode Practice
+description: Leetcode has become the most used repository of questions. 
+background: '/img/bg-leetcode.jpg'
+---
+<div class="row">
+    <div class="col-12">
+        <p>
+            When we see aspiring engineers solve leetcode questions, I see them "grind" leetcode, as in, 
+            set aside a dedicated time slot and read question after question and solve them. This process 
+            is as dry and painful as it sounds. Learning typically is not a solo activity. It is very easy 
+            to get discouraged, or be put off by the tough questions. 
+        </p>
+        <p>
+            There are solutions and discussions, that often increase your anxiety levels. You are not alone, 
+            there are 100s of folks like you who are looking to learn and improve their skills. If you are 
+            at a location where you can form local study groups, do it. If you have access to a network that 
+            you can tap into to do a group study/solve session, do it.
+        </p>
+        <p>
+            If not! read along.
+        </p>
+        <p>
+            <ol>
+                <li>First join our <a href="https://www.sdeskills.com/slack">SDE Skills Slack group</a></li>
+                <li>Once you are there, join the #leetcode-practice channel</li>
+                <li>Each day, Our L33tbot shares 3 questions from leetcode.com from easy, medium 
+                    and hard difficulty levels. You can solve them offline, or interactively with 
+                    other leetcoders. Test your code against test cases in leetcode.</li>
+            </ol>
+        </p>
+        <p>
+            This channel has 2000+ members who are interested in practicing. At any point of time you should 
+            find a few folks who are solving intersting questions. Dont see anyone active, post a question 
+            to start the conversation and watch the buzz grow.
+        </p>
+    </div>
+</div>    
+<div class="row">
+    <div class="col-12">
+        <h2>Sessions Archive</h2>
+        <p>
+            We keep evolving to support the needs of current active members. We have been discussing these
+            questions in an online session that are recorded and uploaded on our youtube channel. Here is a 
+            list of sessions that are available. 
+            Note: We often get a bit backlogged in updating the website, head over to 
+            <a href="https://www.sdeskills.com/youtube">SDE Skills YouTube Channel</a> and explore 
+            the videos there.
+        </p>
+    </div>
+</div>
+{% for session in site.data.leetcode %}
+<div class="row">
+    <div class="col-md-9">
+        <h3>{{ session.name }}</h3>
+        <ul>
+        {% for question in session.questions %}
+        <li><a href="{{ question.link }}">{{ question.title }}</a></li>
+        {%endfor%}
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <iframe width="280" height="158" src="{{ session.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+{%endfor%}
