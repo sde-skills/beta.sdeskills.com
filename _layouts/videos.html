@@ -1,0 +1,66 @@
+---
+layout: default
+background: '/img/bg-youtube.jpg'
+---
+
+<!-- Page Header -->
+{% if page.background %}
+{% assign background = page.background | prepend: site.baseurl | replace: '//', '/' %}
+<header class="masthead" style="background-image: url('{{background}}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mx-auto">
+          <div class="post-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+</header>
+
+
+  <div class="container">
+    <div class="row">
+        <div class="col-3 text-black bg-light ">
+            {% if page.url <> '/youtube-channel/index' %}
+            <a href="/youtube-channel"> Index </a>
+            {% else %}
+            <strong>Videos Home</strong>
+            {% endif %}
+
+            
+        </div>
+        {% for videotype in site.videos %}
+        {% if videotype.url <> '/youtube-channel/index' %}
+        <div class="col-3 text-black bg-light ">
+            {% if page.url <> videotype.url %}
+            <a href="{{ videotype.url }}"> {{ videotype.name }} </a>
+            {% else %}
+            <strong>{{ videotype.name }}</strong>
+            {% endif %}
+        </div>        
+        {% endif %}
+        {% endfor %}
+    </div>
+    
+    <div class="row">
+      <div class="col-12">
+            {{ content }}
+      </div>
+    </div>
+    <div class="row">
+        {% for video in page.videos%}
+        <div class="col-md-6">
+            <strong>{{ video.title }}</strong>
+            <iframe width="100%" min-width="320" min-height="200" src="{{ video.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {%endfor%}
+    </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: videos
+title: SDE Skills YouTube Channel
+description: We record most of our sessions and upload them to YouTube. Check them out! 
+background: '/img/bg-youtube.jpg'
+---
+<div class="row">
+    <div class="col-12">
+        <p>
+            Our in-person meetups are super interactive and information packed. While nothing can come 
+            close to participating in real-time, we have the next best thing to offer - recordings of 
+            these sessions uploaded to <a href="https://www.sdeskills.com/youtube">SDE Skills YouTube Channel</a>.
+            To cater to our geographically distributed membership, we have also been running several sessions 
+            online. We have been recording these and uploading them as well.
+        </p>
+        <strong>Here are some categories: </strong>
+        <ul>
+            {% for videotype in site.videos %}
+                {% if videotype.url <> '/youtube-channel/index' %}
+                <li><a href="{{ videotype.url }}"> {{ videotype.name }} </a></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+    </div>
+</div>
+

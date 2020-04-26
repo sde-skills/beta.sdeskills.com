@@ -30,3 +30,6 @@ collections:
   chapters:
     output: true
     permalink: /chapters/:path
+  videos:
+    output: true
+    permalink: /youtube-channel/:path
