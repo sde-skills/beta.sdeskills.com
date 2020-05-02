@@ -32,7 +32,7 @@ Joining our vibrant slack community is easy! We are eager to have you on our pla
     </div>
   </div>
 </form>
-
+<br/><br/>
 # SDE Skills Code of Conduct
 Given that we are a large group of people, please follow the following guidelines to help you get the most from our Slack community.
 
