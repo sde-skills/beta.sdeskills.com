@@ -3,9 +3,9 @@ $(function () {
 })
 
 $(document).ready(function() {
-	   $("#contactForm").on('submit', function(e){
-	   		e.preventDefault();
-       $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");	   		
+    $("#contactForm").on('submit', function(e) {
+        e.preventDefault();
+        $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");	   		
         var b = $.ajax({
                 url: "https://www.sdeskills.com/scripts/signup.php",
                 type: "post",
@@ -20,6 +20,28 @@ $(document).ready(function() {
                     }, 2000)
                 }
             })
-    
-	   	})
+    });
+
+    $("#slackInvite").on('submit', function(e) {
+        e.preventDefault();
+        $("button#slackSubmit").html("Wait..").attr("disabled", "disabled");	   		
+        var b = $.ajax({
+                url: "https://www.sdeskills.com/scripts/slack/request_invite.php",
+                type: "post",
+                data: $("#slackInvite").serialize(),
+                success: function(d) {
+                    $("button#slackSubmit").html("Subscribed...").attr("disabled", "disabled")
+                },
+                error: function(d) {
+                    $("button#slackSubmit").html("Failed...").attr("disabled", "disabled");
+                    setTimeout(function() {
+                        $("button#slackSubmit").html("Submit").prop("disabled", false)
+                    }, 2000)
+                }
+            })
+    });
+
+
+
+           
  });
