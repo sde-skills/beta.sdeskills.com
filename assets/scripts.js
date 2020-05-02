@@ -30,7 +30,7 @@ $(document).ready(function() {
                 type: "post",
                 data: $("#slackInvite").serialize(),
                 success: function(d) {
-                    $("button#slackSubmit").html("Subscribed...").attr("disabled", "disabled")
+                    $("button#slackSubmit").html("Invited...").attr("disabled", "disabled")
                 },
                 error: function(d) {
                     $("button#slackSubmit").html("Failed...").attr("disabled", "disabled");
