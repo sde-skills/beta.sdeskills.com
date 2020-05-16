@@ -5,6 +5,12 @@ layout: videos
 description: Here are some videos covering System Design
 background: '/img/bg-youtube.jpg'
 videos:
+  - title: 'System Design Session by Naga Aerakoni - Data Structures that Power your Databases (Storage Engines)'
+    link: https://www.youtube.com/embed/NhqoIKaUqZY
+  - title: 'System Design Session by Naga Aerakoni - Replication in Distributed Systems'
+    link: https://www.youtube.com/embed/bdmIOllXAhw
+  - title: 'System Design Session by Naga Aerakoni'
+    link: https://www.youtube.com/embed/MrR79HAJBMU
   - title: 'SDE Skills - In Class Sessions - Jun 23 - System design'
     link: https://www.youtube.com/embed/nQvnF6cW_UA
   - title: 'Build a solver for the Lights out game'

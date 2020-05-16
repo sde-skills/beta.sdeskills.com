@@ -5,6 +5,36 @@ layout: videos
 description: Here are some videos from our Leetcode Practice sessions
 background: '/img/bg-youtube.jpg'
 videos:
+  - title: 'Daily Coding Practice (Questions: 2020 05 14, Session: 2020 05 15)'
+    link: https://www.youtube.com/embed/dDh-QF-bSCA
+  - title: 'Daily Coding Practice (Questions: 2020 05 13, Session: 2020 05 14)'
+    link: https://www.youtube.com/embed/mcIoNix1NQQ
+  - title: 'Daily Coding Practice (Questions: 2020 05 12, Session: 2020 05 13)'
+    link: https://www.youtube.com/embed/k7UwQcH2e24
+  - title: 'Daily Coding Practice (Questions: 2020 05 11, Session: 2020 05 12)'
+    link: https://www.youtube.com/embed/n357vUFqCkc
+  - title: 'Daily Coding Practice (Questions: 2020 05 10, Session: 2020 05 11)'
+    link: https://www.youtube.com/embed/qbEw2RwiVQ0
+  - title: 'Daily Coding Practice (Questions: 2020 05 07, Session: 2020 05 08)'
+    link: https://www.youtube.com/embed/GDzn_DPh4Fw
+  - title: 'Daily Coding Practice (Questions: 2020 05 06, Session: 2020 05 07)'
+    link: https://www.youtube.com/embed/NAWPejQ-WQQ
+  - title: 'Daily Coding Practice (Questions: 2020 05 05, Session: 2020 05 06)'
+    link: https://www.youtube.com/embed/TeXcaGZknSI
+  - title: 'Daily Coding Practice (Questions: 2020 05 04, Session: 2020 05 05)'
+    link: https://www.youtube.com/embed/M4NHze5-pcg
+  - title: 'Daily Coding Practice (Questions: 2020 05 03, Session: 2020 05 04)'
+    link: https://www.youtube.com/embed/80sh59bxyeo
+  - title: 'Daily Coding Practice (Questions: 2020 04 30, Session: 2020 05 01)'
+    link: https://www.youtube.com/embed/bACU3POUz_w
+  - title: 'Daily Coding Practice (Questions: 2020 04 29, Session: 2020 04 30)'
+    link: https://www.youtube.com/embed/lW1jkdaq-Lg
+  - title: 'Daily Coding Practice (Questions: 2020 04 28, Session: 2020 04 29)'
+    link: https://www.youtube.com/embed/TqFwP_9w6Hc
+  - title: 'Daily Coding Practice (Questions: 2020 04 26, Session: 2020 04 27)'
+    link: https://www.youtube.com/embed/BM1KPWLF2AU
+  - title: 'Daily Coding Practice (Questions: 2020 04 27, Session: 2020 04 28)'
+    link: https://www.youtube.com/embed/8xmjHX_RYcE
   - title: 'Leetcode Buy and Sell Stocks Problems by Roger'
     link: https://www.youtube.com/embed/YGlOM1NsCQQ
   - title: 'Daily Coding Practice (Questions: 2020 04 23, Session: 2020 04 24)'
@@ -161,5 +191,8 @@ videos:
     link: https://www.youtube.com/embed/7QLRJOsK30Y  
   - title: 'Leetcode Practice Hangouts - 2019 05 20'
     link: https://www.youtube.com/embed/yu2y-3xDELE  
+# Go to this url: 
+## https://studio.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+# document.querySelectorAll("a#thumbnail-anchor").forEach(function (e) { console.log(e.getAttribute('href')+" # " + e.getAttribute('aria-label')); } );;
 ---
 All our Leetcode questions / videos.

@@ -5,6 +5,12 @@ layout: videos
 description: Here are some videos covering a few Algo topics
 background: '/img/bg-youtube.jpg'
 videos:
+  - title: 'Coding Practice Sessions - Sliding Window (by Nagarjuna and Sumeet Kedia)'
+    link: https://www.youtube.com/embed/F7fWyFHe_xk
+  - title: 'Coding Practice Sessions - Binary Search by Aseem'
+    link: https://www.youtube.com/embed/xUu2Y4So1q8
+  - title: 'Dynamic Programming: Space Optimization Techniques by Roger'
+    link: https://www.youtube.com/embed/7HpCxqsJbh4
   - title: 'Dynamic Programming by Gaurav - Part 1'
     link: https://www.youtube.com/embed/ttKUDDa240M
   - title: 'Dynamic Programming by Gaurav - Part 2'
