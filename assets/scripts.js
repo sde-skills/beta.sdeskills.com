@@ -7,7 +7,7 @@ $(document).ready(function() {
         e.preventDefault();
         $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");	   		
         var b = $.ajax({
-                url: "https://www.sdeskills.com/scripts/signup.php",
+                url: "https://www.sdeskills.com/scripts/slack/request_invite.php",
                 type: "post",
                 data: $("#contactForm").serialize(),
                 success: function(d) {
