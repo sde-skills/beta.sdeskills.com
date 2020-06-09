@@ -11,6 +11,7 @@ background: '/img/bg-resources.jpg'
 * [Handouts and Code on GitHub](https://github.com/sde-skills/meetupHandoutsAndCode)
 
 # Websites
+* [Divyanshu Shekhar](https://divyanshushekhar.com/)
 * [Techie Delight](http://www.techiedelight.com/)
 * [SPOJ](http://www.spoj.com/)
 * [Geeks for Geeks](http://www.geeksforgeeks.com/)
