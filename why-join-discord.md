@@ -2,7 +2,7 @@
 layout: page
 title: Why join our Discord Server?
 description: Setup in 2017, it has 8500+ members.
-background: '/img/bg-slack.jpg'
+background: '/img/bg-studygroups.jpg'
 ---
 
 # How do I Join the SDE Skills Discord?
