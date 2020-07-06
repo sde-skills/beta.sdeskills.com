@@ -23,12 +23,12 @@ Join a study group to reap one or more of the following benefits:
 
 # So how do you get started?
 The best way to get going is to 
-* first join the [SDE Skills Slack](sde-skills-slack) 
+* first join the [SDE Skills Discord](https://sdeskills.com/discord) 
 * and then join the #findstudygroup channe, 
 * also look for any of the local study group channgle #sg-* 
 * Look for any open invitations, where folks are asking to form groups, if not, take the initiative to setup the time and place and ask to see who is interested in joining.
 
 
-[![](/img/btn-add-to-slack.png)][sde-skills-slack]
+[![](/img/btn-discord.png)][sde-skills-discord]
 
-[sde-skills-slack]: https://www.sdeskills.com/slack
+[sde-skills-discord]: https://www.sdeskills.com/discord
