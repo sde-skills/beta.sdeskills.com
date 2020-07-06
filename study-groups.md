@@ -29,6 +29,6 @@ The best way to get going is to
 * Look for any open invitations, where folks are asking to form groups, if not, take the initiative to setup the time and place and ask to see who is interested in joining.
 
 
-[![](/img/btn-add-to-slack.png)][sde-skills-slack]
+[![](/img/btn-discord.png)][sde-skills-discord]
 
-[sde-skills-slack]: https://www.sdeskills.com/slack
+[sde-skills-discord]: https://www.sdeskills.com/discord
