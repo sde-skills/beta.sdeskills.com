@@ -7,7 +7,7 @@ background: '/img/bg-resources.jpg'
 
 # SDE Skills Resources
 * [SDE Skills Discord Server](https://sdeskills.com/discord)
-* [SDE Skills YouTube Channel](https://www.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg)
+* [SDE Skills YouTube Channel](https://sdeskills.com/youtube)
 * [Handouts and Code on GitHub](https://github.com/sde-skills/meetupHandoutsAndCode)
 
 # Websites
