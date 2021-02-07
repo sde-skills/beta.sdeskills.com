@@ -24,38 +24,3 @@ background: '/img/bg-about.jpg'
 	</div>
 </div>
 </section>
-
-<section id="section-meetups" class="section-wrapper">
-	<div class="container">
-    	<div class="row">
-	        <div class="col-lg-12 ">
-                <h2 class="section-title">Our Team</h2>
-                <h3 class="section-subheading text-muted">Meet our awesome team. These are the folks who make things happen.</h3>
-	        </div>
-        </div>
-
-		{% assign chapters = site.chapters | sort: "sortkey" %}
-        {% for chapter in chapters %}
-    	<div class="row">
-	        <div class="col-lg-12 ">
-                <h3 class="section-title"><a href="{{ chapter.url }}"> {{ chapter.name }} </a></h3>
-				{% if chapter.year  %}
-                <h4 class="section-subheading text-muted">Established: {{ chapter.year }}</h4>
-				{% endif %}
-	        </div>
-        </div>
-
-	    <div class="row">
-		    {% for member in chapter.team %}
-		    <div class="col-sm-4">
-		        <div class="team-member">
-		            <img src="img/people/{{ member.pic }}" class="img-responsive img-circle" alt="">
-		            <h4 class="name">{{ member.name }}</h4>
-		            <p class="text-muted role">{{ member.position }}</p>
-		        </div>
-		    </div>
-		    {% endfor %}
-	    </div>
-        {% endfor %}
-    </div>	    
-</section>
