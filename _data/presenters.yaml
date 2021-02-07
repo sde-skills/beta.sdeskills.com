@@ -1,3 +1,26 @@
+2021:
+- name: Dippy Aggarwal
+  pic: dippy.jpg
+  title: Software Development Engineer at Intel Corporation
+  linkedin: dippyaggarwal
+
+- name: Aseem Puri
+  pic: aseem.jpg
+  title: Software Engineer at Amazon
+  linkedin: aseempuri
+
+- name: Naga A
+  pic: naga.jpg
+  title: Software Development Engineer II at Amazon
+  linkedin: nagarajulu
+
+- name: Santhosh More
+  pic: default.jpg
+
+- name: Shashank Mishra
+  pic: shashank.jpg
+  title: Software Development Engineer
+
 2020:
 - name: Monika Sharma
   pic: monika.jpg
