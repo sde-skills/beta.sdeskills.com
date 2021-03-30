@@ -21,6 +21,8 @@ future: false
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
+include:
+  - _redirect
 plugins:
   - jekyll-feed
   - jekyll-paginate
