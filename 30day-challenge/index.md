@@ -11,6 +11,15 @@ background: '/img/bg-games.jpg'
 * **When**: Questions will be posted everyday from 1st April until 30th April
 * **Where**: [SDE Skills Discord Server](https://sdeskills.com/discord) @ #women-in-tech.
 
+# How to submit your code
+1. Head over to [repl.it](https://repl.it)
+2. create an account / log in.
+3. Code your submission and share it with user @sdeskills
+4. e-mail your submission to [30day-challenge@sdeskills.com](mailto:30day-challenge@sdeskills.com)
+
+**Note:** While there is no submission deadline per-se, we recommend you answer these questions as soon as they are posted.
+
+
 # Want the questions emailed?
 <form name="challenge" id="challenge">
   <div class="form-row">
@@ -42,11 +51,14 @@ background: '/img/bg-games.jpg'
 <br/>
 
 # Challenges
-* **April 1:** To be revealed soon ...
+* **April 1:** [Tic-tac-toe I](/30day-challenge/day1)
 * **April 2:** To be revealed soon ...
 * **April 3:** To be revealed soon ...
 
-<!-- Event snippet for Website traffic conversion page -->
+<!-- Event snippet for Website sale conversion page -->
 <script>
-  gtag('event', 'conversion', {'send_to': 'AW-674035741/HCiECKTXlP4BEJ3ws8EC'});
+  gtag('event', 'conversion', {
+      'send_to': 'AW-674035741/-8rRCNqqlP4BEJ3ws8EC',
+      'transaction_id': ''
+  });
 </script>
