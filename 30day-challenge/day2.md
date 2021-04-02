@@ -1,15 +1,24 @@
 ---
 layout: page
-title: April 30-Day Coding Challenge
-description: Invest your April towards improving your programming skills, build one game each day.
+title: Day 2 - Validate Sudoku
+description: April 30-Day Coding Challenge
 background: '/img/bg-games.jpg'
 ---
+[April 30d Coding Challenge](/30day-challenge/) > Validate Sudoku
 
 # About 30-Day Coding Challenge
-* **Who**: Everyone is welcome, we are exporing sponsors for prizes to those who complete the challenge.
-* **What**: Daily question, focus is on writing a  game in language of your choice.
-* **When**: Questions will be posted everyday from 1st April until 30th April
-* **Where**: [SDE Skills Discord Server](https://sdeskills.com/discord) @ #women-in-tech.
+
+Determine if a 9 x 9 Sudoku board is valid. Each row, colum and the 3x3 sub-grid must contain digits between 1-9 without repetition.
+
+Write a program that accepts a Sudoku Grid and returns one of the following results
+* ``EMPTY`` - Board is Empty
+* ``VALID`` - Board is partially filled, and there are no inconsistencies
+* ``SOLVED`` - Board is fully filled, and there are no inconsistencies
+* ``INVALID`` - Board has one or mode inconsistencies
+
+
+
+To Discuss more and follow up, join us at [SDE Skills Discord Server](https://sdeskills.com/discord), use the #women-in-tech channel.
 
 # How to submit your code
 1. Head over to [repl.it](https://repl.it)
@@ -19,6 +28,7 @@ background: '/img/bg-games.jpg'
 
 **Note:** While there is no submission deadline per-se, we recommend you answer these questions as soon as they are posted.
 
+![Day 1 - Tic-Tac-Toe I](/img/30day-challenge/day2.jpg)
 
 # Want the questions emailed?
 <form name="challenge" id="challenge">
@@ -49,11 +59,6 @@ background: '/img/bg-games.jpg'
   </div>
 </form>
 <br/>
-
-# Challenges
-* **April 1:** [Tic-tac-toe I](/30day-challenge/day1)
-* **April 2:** [Validate Sudoku](/30day-challenge/day2)
-* **April 3:** To be revealed soon ...
 
 <!-- Event snippet for Website sale conversion page -->
 <script>
