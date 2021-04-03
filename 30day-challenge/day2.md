@@ -6,7 +6,7 @@ background: '/img/bg-games.jpg'
 ---
 [April 30d Coding Challenge](/30day-challenge/) > Validate Sudoku
 
-# About 30-Day Coding Challenge
+# Day 2 - Validate Sudoku
 
 Determine if a 9 x 9 Sudoku board is valid. Each row, colum and the 3x3 sub-grid must contain digits between 1-9 without repetition.
 
@@ -28,7 +28,7 @@ To Discuss more and follow up, join us at [SDE Skills Discord Server](https://sd
 
 **Note:** While there is no submission deadline per-se, we recommend you answer these questions as soon as they are posted.
 
-![Day 1 - Tic-Tac-Toe I](/img/30day-challenge/day2.jpg)
+![Day 2 - Validate Sudoku](/img/30day-challenge/day2.jpg)
 
 # Want the questions emailed?
 <form name="challenge" id="challenge">

@@ -6,7 +6,7 @@ background: '/img/bg-games.jpg'
 ---
 [April 30d Coding Challenge](/30day-challenge/) > Tic-Tac-Toe I
 
-# About 30-Day Coding Challenge
+# Day 1 - Tic-Tac-Toe I
 
 TTT is a two player game with a 3x3 grid. First player picks an open square and puts a X, the second player draws an O. Players take turns till one of the players wins (gets the of the marks in a row). Game is a draw when all 9 squares are filled up without a winner.
 
