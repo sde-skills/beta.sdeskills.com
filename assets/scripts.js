@@ -5,7 +5,7 @@ $(function () {
 $(document).ready(function() {
     $("#contactForm").on('submit', function(e) {
         e.preventDefault();
-        $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");	   		
+        $("button#contactSubmit").html("Wait..").attr("disabled", "disabled");
         var b = $.ajax({
                 url: "https://www.sdeskills.com/scripts/slack/request_invite.php",
                 type: "post",
@@ -24,7 +24,7 @@ $(document).ready(function() {
 
     $("#slackInvite").on('submit', function(e) {
         e.preventDefault();
-        $("button#slackSubmit").html("Wait..").attr("disabled", "disabled");	   		
+        $("button#slackSubmit").html("Wait..").attr("disabled", "disabled");
         var b = $.ajax({
                 url: "https://www.sdeskills.com/scripts/slack/request_invite.php",
                 type: "post",
@@ -41,7 +41,24 @@ $(document).ready(function() {
             })
     });
 
+    $("#challenge").on('submit', function(e) {
+        e.preventDefault();
+        $("button#challengeSubmit").html("Wait..").attr("disabled", "disabled");
+        var b = $.ajax({
+                url: "https://www.sdeskills.com/scripts/subscribe.php",
+                type: "post",
+                data: $("#challenge").serialize(),
+                success: function(d) {
+                    $("button#challengeSubmit").html("Invited...").attr("disabled", "disabled")
+                },
+                error: function(d) {
+                    $("button#challengeSubmit").html("Failed...").attr("disabled", "disabled");
+                    setTimeout(function() {
+                        $("button#challengeSubmit").html("Submit").prop("disabled", false)
+                    }, 2000)
+                }
+            })
+    });
 
 
-           
  });
