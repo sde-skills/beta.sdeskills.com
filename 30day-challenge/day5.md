@@ -38,7 +38,7 @@ To Discuss more and follow up, join us at [SDE Skills Discord Server](https://sd
 
 **Note:** While there is no submission deadline per-se, we recommend you answer these questions as soon as they are posted.
 
-![Day 3 - Morse Code I](/img/30day-challenge/day3.jpg)
+![Day 5 - Morse Code I](/img/30day-challenge/day5.jpg)
 
 # Want the questions emailed?
 <form name="challenge" id="challenge">
