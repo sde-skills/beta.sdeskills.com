@@ -1,15 +1,19 @@
 ---
 layout: page
-title: April 30-Day Coding Challenge
-description: Invest your April towards improving your programming skills, build one game each day.
+title: Day 8 - Knight's Tour
+description: April 30-Day Coding Challenge
 background: '/img/bg-games.jpg'
 ---
+[April 30d Coding Challenge](/30day-challenge/) > N Queens Puzzle
 
-# About 30-Day Coding Challenge
-* **Who**: Everyone is welcome, we are exporing sponsors for prizes to those who complete the challenge.
-* **What**: Daily question, focus is on writing a  game in language of your choice.
-* **When**: Questions will be posted everyday from 1st April until 30th April
-* **Where**: [SDE Skills Discord Server](https://sdeskills.com/discord) @ #women-in-tech.
+# Day 8 - Knight's Tour
+Given a NxN chessboard, plot the path a Knight can take starting from any spot on the board, and visit each square exactly once.
+
+One such example shown in the image below for a 5x5 board.
+
+*Note: The knight can start from any square. Some of the solutions are "closed loop" as in, the square you start from can be reached from the square you end with. This may result in duplicate solutions.*
+
+To Discuss more and follow up, join us at [SDE Skills Discord Server](https://sdeskills.com/discord), use the #women-in-tech channel.
 
 # How to submit your code
 1. Head over to [repl.it](https://repl.it)
@@ -19,6 +23,7 @@ background: '/img/bg-games.jpg'
 
 **Note:** While there is no submission deadline per-se, we recommend you answer these questions as soon as they are posted.
 
+![Day 8 - Knight's Tour](/img/30day-challenge/day8.jpg)
 
 # Want the questions emailed?
 <form name="challenge" id="challenge">
@@ -49,16 +54,6 @@ background: '/img/bg-games.jpg'
   </div>
 </form>
 <br/>
-
-# Challenges
-* **April 1:** [Tic-tac-toe I](/30day-challenge/day1)
-* **April 2:** [Validate Sudoku](/30day-challenge/day2)
-* **April 3:** [Morse Code I](/30day-challenge/day3)
-* **April 4:** [Tic-tac-toe II](/30day-challenge/day4)
-* **April 5:** [Morse Code II](/30day-challenge/day5)
-* **April 6:** [N Queens Puzzle](/30day-challenge/day6)
-* **April 7:** [15 Puzzle](/30day-challenge/day7)
-* **April 8:** [Knight's Tour](/30day-challenge/day8)
 
 <!-- Event snippet for Website sale conversion page -->
 <script>
