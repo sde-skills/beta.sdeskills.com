@@ -4,7 +4,7 @@ title: Day 8 - Knight's Tour
 description: April 30-Day Coding Challenge
 background: '/img/bg-games.jpg'
 ---
-[April 30d Coding Challenge](/30day-challenge/) > N Queens Puzzle
+[April 30d Coding Challenge](/30day-challenge/) > Knight's Tour
 
 # Day 8 - Knight's Tour
 Given a NxN chessboard, plot the path a Knight can take starting from any spot on the board, and visit each square exactly once.
