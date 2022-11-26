@@ -1,21 +1,37 @@
 # Redirects
+
+# Meetup / Zoom
 /zoom                  https://us02web.zoom.us/j/7337545570?pwd=RGpmSFhxSmxBK0JRdTNsblFVVTh0Zz09;
-/strategies            https://drive.google.com/open?id=11jF1Den_2W0kUS-y9uvPqUf7iu-IXAv7;
 /meetup/present        https://www.signupgenius.com/go/904094da5aa2da1f49-volunteer;
-/ciprep                https://drive.google.com/open?id=11ioSVdIvsElbyXQWbRARhBdZ2mxreqO-;
-/engage                https://www.sdeskills.com/#section-engage;
-/donate.               https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EET22C9WKZKAS&source=url;
-/slack                 /scripts/slack_redirect.php;
-/invite                /scripts/slack_redirect.php;
-/discord               https://discord.gg/9K84yNM;
 /join-meetup-sea       https://www.meetup.com/skillets/?action=join;
 /meetup                https://meetup.com/skillets/?action=join;
 /meetup-sea            https://meetup.com/skillets/?action=join;
 /meetup-sfo            https://meetup.com/sfskillets/?action=join;
 /meetup-yyz            https://www.meetup.com/SDE-Skills-Toronto/?action=join;
+/github                https://github.com/sde-skills/meetupHandoutsAndCode;
+
+
+# social media
 /fb                    https://fb.com/groups/sdeskills;
 /facebook              https://fb.com/groups/sdeskills;
 /youtube               https://youtube.com/sdeskills;
+
+
+# Documents / Presentations
+/strategies            https://drive.google.com/open?id=11jF1Den_2W0kUS-y9uvPqUf7iu-IXAv7;
+/ciprep                https://drive.google.com/open?id=11ioSVdIvsElbyXQWbRARhBdZ2mxreqO-;
+
+
+# Engagement
+/engage                https://www.sdeskills.com/#section-engage;
+/donate                https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EET22C9WKZKAS&source=url;
+
+# Discord Invites
+/slack                 https://discord.gg/9K84yNM;
+/invite                https://discord.gg/9K84yNM;
+/discord               https://discord.gg/9K84yNM;
+
+# deprecated
 /conference            https://www.freeconferencecall.com/wall/sdeskills;
 /sgwaitlist            https://www.sdeskills.com/study-groups;
 /sgtest                https://www.sdeskills.com/study-groups;
@@ -26,4 +42,3 @@
 /sgduex                https://www.sdeskills.com/study-groups;
 /sgdeux                https://www.sdeskills.com/study-groups;
 /gtkyb                 https://docs.google.com/forms/d/e/1FAIpQLSfp0_nAp-UEikYDO-XvN6hzWZmw3nag-GaJcYIe73xzT2czqQ/viewform;
-/github                https://github.com/sde-skills/meetupHandoutsAndCode;
