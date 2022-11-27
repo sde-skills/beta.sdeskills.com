@@ -27,7 +27,7 @@ export function onRequest(context) {
 		});
 	}
 
-	return new subscribeEmail(obj.name, obj.email);
+	return new subscribeEmail(name, email);
 }
 
 
