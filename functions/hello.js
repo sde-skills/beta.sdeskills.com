@@ -1,4 +1,4 @@
-export function onRequest(context) {
+export function onRequest({ request, env }) {
 	const corsHeaders = {
 		"Access-Control-Allow-Origin": "*",
 		"Access-Control-Allow-Methods": "*",
@@ -7,7 +7,6 @@ export function onRequest(context) {
 	var name = null;
 	var email = null
 	try {
-		const { request }  = context;
 		const url = new URL(request.url);
 		name = url.searchParams.get('name');
 		email = url.searchParams.get('email');
@@ -37,7 +36,7 @@ export function onRequest(context) {
 			'name': name,
 			'email':  email,
 			'boolean': 'true',
-			'api_key': API_KEY,
+			'api_key': env.API_KEY,
 		}),
 	});}
 
