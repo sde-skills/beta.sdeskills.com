@@ -7,6 +7,7 @@ export function onRequest(context) {
 	var name = null;
 	var email = null
 	try {
+		const { request }  = context;
 		const url = new URL(request.url);
 		name = url.searchParams.get('name');
 		email = url.searchParams.get('email');
