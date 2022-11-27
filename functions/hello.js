@@ -32,11 +32,11 @@ export function onRequest(context) {
 		return new Response('An error ocurred while sending the message.', {
 			status: 500,
 			headers: corsHeaders
-		})
+		});
 	}
 
 
-	return new Response("Hello, world!")
+	return new subscribeEmail(obj.name, obj.email);
 }
 
 
