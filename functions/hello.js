@@ -6,7 +6,7 @@ export function onRequest(context) {
 	}
 
 	try {
-		obj = await ctx.request.json();
+		obj = ctx.request.json();
 	} catch (e) {
 		return new Response('Invalid JSON body!', {
 			status: 400,
