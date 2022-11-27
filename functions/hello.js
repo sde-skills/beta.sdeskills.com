@@ -51,7 +51,7 @@ async function subscribeEmail(name, email) {
 				'name': name,
 				'email':  email,
 				'boolean': 'true',
-				'api_key': 'API_KEY',
+				'api_key': API_KEY,
 			}),
 		});
 }
