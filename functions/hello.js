@@ -27,22 +27,18 @@ export function onRequest(context) {
 		});
 	}
 
-	return new subscribeEmail(name, email);
-}
+	return fetch("http://sendy.sdeskills.com/subscribe", {
+		method: 'POST',
+		headers: {
+			'Content-Type': 'application/x-www-form-urlencoded',
+		},
+		body: JSON.stringify({
+			'list':'Tc0Ws84FsmX4HB4vgGeV4g',
+			'name': name,
+			'email':  email,
+			'boolean': 'true',
+			'api_key': API_KEY,
+		}),
+	});}
 
 
-async function subscribeEmail(name, email) {
-		return fetch("http://sendy.sdeskills.com/subscribe", {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/x-www-form-urlencoded',
-			},
-			body: JSON.stringify({
-				'list':'Tc0Ws84FsmX4HB4vgGeV4g',
-				'name': name,
-				'email':  email,
-				'boolean': 'true',
-				'api_key': API_KEY,
-			}),
-		});
-}
