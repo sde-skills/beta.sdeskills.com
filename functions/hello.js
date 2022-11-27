@@ -4,11 +4,12 @@ export function onRequest(context) {
 		"Access-Control-Allow-Methods": "*",
 		"Access-Control-Allow-Headers": "*"
 	}
-	const name,email
+	var name = null;
+	var email = null
 	try {
 		const url = new URL(request.url);
-		const name = url.searchParams.get('name');
-		const email = url.searchParams.get('email');
+		name = url.searchParams.get('name');
+		email = url.searchParams.get('email');
 		
 	} catch (e) {
 		return new Response('failed to decode url', {
