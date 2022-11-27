@@ -4,37 +4,26 @@ export function onRequest(context) {
 		"Access-Control-Allow-Methods": "*",
 		"Access-Control-Allow-Headers": "*"
 	}
-
+	const name,email
 	try {
-		obj = ctx.request.json();
+		const url = new URL(request.url);
+		const name = url.searchParams.get('name');
+		const email = url.searchParams.get('email');
+		
 	} catch (e) {
-		return new Response('Invalid JSON body!', {
+		return new Response('failed to decode url', {
 			status: 400,
 			headers: corsHeaders
 		});
 	}
 
 	// Validate the JSON
-	if (!obj.name || !obj.email ) {
-		return new Response('Invalid body', {
+	if (!name || !email ) {
+		return new Response('Name/email not sent', {
 			status: 400,
 			headers: corsHeaders
 		});
 	}
-
-	if (discordResp.status === 200 || discordResp.status === 204) {
-		// Success
-		return new Response('Success.', {
-			status: 200,
-			headers: corsHeaders
-		});
-	} else {
-		return new Response('An error ocurred while sending the message.', {
-			status: 500,
-			headers: corsHeaders
-		});
-	}
-
 
 	return new subscribeEmail(obj.name, obj.email);
 }
