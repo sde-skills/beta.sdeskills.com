@@ -11,6 +11,7 @@ background: '/img/bg-resources.jpg'
 * [Handouts and Code on GitHub](https://github.com/sde-skills/meetupHandoutsAndCode)
 
 # Websites
+* [Careerflow.ai] (https://www.careerflow.ai/)
 * [Techie Delight](http://www.techiedelight.com/)
 * [SPOJ](http://www.spoj.com/)
 * [Geeks for Geeks](http://www.geeksforgeeks.com/)
@@ -25,6 +26,7 @@ background: '/img/bg-resources.jpg'
 * [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving](https://www.amazon.com/dp/B06XZ61CMP)
 
 # Other Resources
+* [How to use ChatGPT to Prepare for Behavioral interviews](https://www.careerflow.ai/blog/chatgpt-for-behavioral-interview)
 * [How to land Software Engineer offers in 43 days while working on a full-time job](https://medium.com/@siyifan/how-to-land-software-engineer-offers-in-43-days-while-working-on-a-full-time-job-8be3c73109ba)
 * [How To Master the STAR Method For Interview Questions](https://theinterviewguys.com/star-method/)
 * [Awesome list of Important Podcasts for software engineers](https://github.com/rShetty/awesome-podcasts#awesome-list-of-important-podcasts-for-software-engineers)
