@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume Review
-description: <p>Improve Your Odds by Upgrading Your Resume</p><a class="btn btn-primary mt-2" href="https://www.careerflow.ai/resume-review?utm_campaign=SDESKILLS">Upgrade your Resume</a><br>Use promo code SDESKILLS for 20% off all services
+description: <p>Improve Your Odds by Upgrading Your Resume</p><a class="btn btn-primary mt-2" onclick="(()=>{fbq('track','ResumeReview')})()" href="https://www.careerflow.ai/resume-review?utm_campaign=SDESKILLS">Upgrade your Resume</a><br>Use promo code SDESKILLS for 20% off all services
 background: '/img/bg-resume.jpg'
 ---
 
@@ -23,5 +23,6 @@ We are thrilled to announce our partnership with [Careerflow.ai](https://www.car
 
 Unlock your resume's true potential
 
-<a class="btn btn-primary mt-2" href="https://www.careerflow.ai/resume-review?utm_campaign=SDESKILLS">Upgrade your Resume</a><br>
+<a class="btn btn-primary mt-2" onclick="(()=>{fbq('track','ResumeReview')})()" href="https://www.careerflow.ai/resume-review?utm_campaign=SDESKILLS">Upgrade your Resume</a><br>
 Use promo code SDESKILLS for 20% off all services
+
