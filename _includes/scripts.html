@@ -3,3 +3,21 @@
 <script src="{{'/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js' | relative_url }}"></script>
 
 <script src="{{'/assets/scripts.js' | relative_url }}"></script>
+
+<script>
+    var __cbSdkHost = "https://capigateway.qbxl.net";
+    var __cbSdkSettings={'cbq':{destinations:[{name:"cloudbridge"},],
+    "host":__cbSdkHost,"globalVar":"cbq",}};
+    !function(f,b,e,v,n,t,s)
+      {if(f.cbq)return;n=f.cbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._cbq)f._cbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      __cbSdkHost+'sdk/capig-events.js');
+    cbq('init', "320571781954152");
+    cbq('track', 'iPageView');
+  </script>
+
+  
