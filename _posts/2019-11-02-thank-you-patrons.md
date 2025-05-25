@@ -11,10 +11,10 @@ author: SDE Skills
 SDE Skills traces its genesis way back to early 2010. We saw motivated engineers, with multiple years of technical experience, struggle at technical interviews. The technical interview process was pioneered by Microsoft, and later picked up by almost all new-age technical companies. The premise was that technical knowledge, problem solving and creativity were better predictors of success as opposed to traditional interviewing that relied on probing goals and weaknesses interviews.
 
 ## SDE Skills Resources
-* **Discord** - We have more than 12K Engineers in our discord community getting guidance on latest distributed cloud computing technologies, meetups and career advice  -  [https://SDESkills.com/discord](https://SDESkills.com/discord) 
-* **Meetups** -  Weekly meetups community of  5K engineers with tech talks on distributed cloud computing, AI system designs and latest trends - [https://www.meetup.com/skillets/](https://www.meetup.com/skillets/) 
-* **Youtube** - More than 13.9K subscribers, we have more than 800+ Videos, with over 1000+ hours of content. -  [http://youtube.com/sdeskills](http://youtube.com/sdeskills)
-* **LinkedIn** - More than 1K followers -  [https://www.linkedin.com/company/sdeskills/](https://www.linkedin.com/company/sdeskills/) 
+* **Discord** - We have more than 12,000 Engineers in our discord community getting guidance on latest distributed cloud computing technologies  -  [https://SDESkills.com/discord](https://SDESkills.com/discord) 
+* **Meetups** -  Weekly meetups community of 5000 engineers with tech talks on distributed cloud computing, AI and latest trends - [https://www.meetup.com/skillets/](https://www.meetup.com/skillets/) 
+* **Youtube** - With 14,000 subscribers and growing, we have more than 800+ Videos, with over 1000+ hours of content. -  [http://youtube.com/sdeskills](http://youtube.com/sdeskills)
+* **LinkedIn** - More than 1000 followers -  [https://www.linkedin.com/company/sdeskills/](https://www.linkedin.com/company/sdeskills/) 
 * **GitHub** - [https://github.com/sde-skills/meetupHandoutsAndCode](https://github.com/sde-skills/meetupHandoutsAndCode) 
 
 ## History
