@@ -2,7 +2,7 @@
 layout: post
 title: "Insights into Software Engineering Preparation and Hiring Process"
 subtitle: "Notes from AMA (Ask Me Anything) session "
-date: 2020-04-03 10:45:13 -0700
+date: 2024-04-03 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: SDE Skills
 ---
