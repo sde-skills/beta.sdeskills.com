@@ -30,7 +30,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 
 ## Registration
 * **Follow the [Link](https://docs.google.com/forms/d/1Zorg8eC8FUo1TM-ufG4P6POGRIxHb2D23QG0iOpZX74) to register for Hackathon**
-* **Submission Period**: June 20  to June 23, 2025​
+* **Submission Period**: May 25  to June 23, 2025​
 * **Judging Period**: June 24 to June 25, 2025​
 * **Winners Announced**: June 26, 2025​
 
