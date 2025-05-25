@@ -9,7 +9,7 @@ author: SDE Skills
 
 For any of you who are either exploring job opportunities or considering a move, questions around the hiring process, preparation strategies, and currently the newly added concerns around coronavirus, are common and often asked across multiple forums on the web. This post addresses some of them.
 
-The list is compiled based on a Q/A session conducted on April 3rd, 2020 online on SDE skills forum. The session was led by [Vivekanand Kirubanandan][1], who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
+The list is compiled based on a Q/A session conducted on April 3rd, 2024 online on SDE skills forum. The session was led by [Vivekanand Kirubanandan][1], who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
 
 ##### I am preparing for Amazon as a fresher and I still have 3 months before my graduation. I am from a non-CS background, is this a disadvantage? Are DS and Algos enough for a fresher or do they consider system design too? Any specific tip you would like to give me, specific to my preparation for Amazon?
 
