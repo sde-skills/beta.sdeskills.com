@@ -2,11 +2,11 @@
 layout: post
 title: "Insights into System Design Interview Preparation and Hiring Process"
 subtitle: "Notes from AMA (Ask Me Anything) session "
-date: 2020-08-13 10:45:13 -0700
+date: 2021-08-13 10:45:13 -0700
 background: '/img/posts/2019/11/patrons.jpg'
 author: Dippy Aggarwal
 ---
-Here’s a post summarizing the key points from a AMA (Ask Me Anything) session that was conducted on SDE Skills forum in 2020. The session invited questions related to the system design interview process and was led by Vivekanand Kirubanandan, who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
+Here’s a post summarizing the key points from a AMA (Ask Me Anything) session that was conducted on SDE Skills forum in 2021. The session invited questions related to the system design interview process and was led by Vivekanand Kirubanandan, who comes with 15+ years of software development, and has been a former Amazon Bar Raiser with ~600+ interviews.
 
 If you have questions around the overall software engineering interviews (that includes questions around levels of hiring at different companies, coding practice etc.), please refer to the the post [here][7].
 
