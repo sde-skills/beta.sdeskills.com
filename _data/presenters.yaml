@@ -1,4 +1,4 @@
-2021:
+2021-2025:
 - name: Dippy Aggarwal
   pic: dippy.jpg
   title: Software Development Engineer at Intel Corporation
@@ -22,6 +22,16 @@
 - name: Shashank Mishra
   pic: shashank.jpg
   title: Software Development Engineer
+
+- name: Vivek K
+  pic: vivek.jpg
+  title: Eng Mgr at Facebook
+  linkedin: vkirub  
+
+- name: Bhavesh Patel
+  pic: bhavesh.jpg
+  title: Sr. SDE at Microsoft
+  linkedin: patel-bhavesh  
 
 2020:
 - name: Monika Sharma
