@@ -2,7 +2,7 @@
 layout: post
 title: "SDE Skills - Mock Interviews"
 subtitle: "Mock Interview is a new initiative that you can leverage to level up your interviewing skills!"
-date: 2020-07-26 6:00:00 -0700
+date: 2022-07-26 6:00:00 -0700
 background: "/img/posts/2020/01/interview.jpg"
 author: Martin Chavez
 ---
