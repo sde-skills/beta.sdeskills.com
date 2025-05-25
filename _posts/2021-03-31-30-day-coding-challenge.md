@@ -2,7 +2,7 @@
 layout: post
 title: "Invest your April, build 30 games - Coding Challenge"
 subtitle: "Code one game a day for fun and profit"
-date: 2021-03-31 9:00:00 -0700
+date: 2022-03-31 9:00:00 -0700
 background: '/img/bg-games.jpg'
 author: Vivek K
 ---
