@@ -15,10 +15,10 @@ About the Organizers
 SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bridging the gap between the skills job seekers possess and those needed to excel in software development engineering. Established in 2010, SDESkills offers resources and support to help individuals maintain and enhance their technical skills. The organization fosters a community-driven approach, emphasizing consistency, reliability, and inclusivity in all its programs.
 
 ## Why Participate?
-* Innovate: Contribute to the evolution of educational content through AI-driven solutions.​
-* Collaborate: Work alongside like-minded individuals in a dynamic, team-oriented environment.​
-* Learn: Gain hands-on experience with AI applications in education and receive feedback from industry experts.​
-* Win: Compete for $2,500 worth of prizes and the opportunity to have your solution featured on SDESkills' platforms and social media pages.
+* **Innovate**: Contribute to the evolution of educational content through AI-driven solutions.​
+* **Collaborate**: Work alongside like-minded individuals in a dynamic, team-oriented environment.​
+* **Learn**: Gain hands-on experience with AI applications in education and receive feedback from industry experts.​
+* **Win**: Compete for $2,500 worth of prizes and the opportunity to have your solution featured on SDESkills' platforms and social media pages.
 
 
 ## SDE Skills Resources
