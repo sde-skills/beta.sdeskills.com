@@ -2,7 +2,7 @@
 layout: post
 title: "SDE Skills - A self-organizing volunteer powered community"
 subtitle: "Unleash the power of volunteer led, self-organizing groups!"
-date: 2020-07-18 6:00:00 -0700
+date: 2023-07-18 6:00:00 -0700
 background: '/img/posts/2020/04/group-people.jpg'
 author: SDE Skills
 ---
