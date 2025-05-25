@@ -16,8 +16,11 @@
         <li class="nav-item">
           <a class="nav-link" href="{{'/about' | relative_url }}">About</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{'/hackathon' | relative_url }}">Hackathon 2025</a>
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hackathon</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="nav-link" href="{{'/hackathon' | relative_url }}">2025</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ '/programs' | relative_url }}">Programs</a>
