@@ -44,7 +44,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 To Be Determined​
 
 ## Judges
-The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are inviting judges to review the hackathon submissions. 
+The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are [inviting judges](https://forms.gle/sDczC1VLaHYLwijcA) to review the hackathon submissions. 
 
 ## Contact Information
 For inquiries, please contact us at [hackathon@sdeskills.com](hackathon@sdeskills.com). Join us in shaping the future of educational technology by reimagining how learners interact with SDESkills' rich video content.​
