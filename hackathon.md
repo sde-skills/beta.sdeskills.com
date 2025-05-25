@@ -9,7 +9,9 @@ background: '/img/bg-hackathon.jpg'
 ## AI-Driven Innovations with SDESkills' Educational Video Content.
 
 The AI-Driven Educational Innovations Hackathon is a virtual event dedicated to transforming SDESkills' extensive library of over 1,000 hours of educational YouTube content into innovative tools. Participants will leverage distributed cloud computing and artificial intelligence to develop secure solutions that enhance accessibility, engagement, and learning outcomes for software development engineers.​
-About the Organizers
+
+## Problem Statement
+How can AI and distributed cloud computing transform SDESkills' YouTube content into secure, engaging, and accessible learning tools for software engineers?
 
 ## About SDESkills
 SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bridging the gap between the skills job seekers possess and those needed to excel in software development engineering. Established in 2010, SDESkills offers resources and support to help individuals maintain and enhance their technical skills. The organization fosters a community-driven approach, emphasizing consistency, reliability, and inclusivity in all its programs.
