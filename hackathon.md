@@ -2,7 +2,7 @@
 layout: page
 title: Hackathon 2025
 description: Code, Create, Innovate. Unleash your inner maker.
-background: '/img/bg-resume.jpg'
+background: '/img/bg-hackathon.jpg'
 ---
 
 
@@ -29,8 +29,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * **GitHub** - [https://github.com/sde-skills/meetupHandoutsAndCode](https://github.com/sde-skills/meetupHandoutsAndCode) 
 
 ## Registration
-* **Link**: https://docs.google.com/forms/d/1Zorg8eC8FUo1TM-ufG4P6POGRIxHb2D23QG0iOpZX74
-* **Schedule**:
+* **Follow the [Link](https://docs.google.com/forms/d/1Zorg8eC8FUo1TM-ufG4P6POGRIxHb2D23QG0iOpZX74) to register for Hackathon**
 * **Submission Period**: June 20  to June 23, 2025​
 * **Judging Period**: June 24 to June 25, 2025​
 * **Winners Announced**: June 26, 2025​
@@ -47,10 +46,9 @@ To Be Determined​
 ## Judges
 The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are inviting judges to review the hackathon submissions. 
 
-
 ## Contact Information
-For inquiries, please contact us at hackathon@sdeskills.com. Join us in shaping the future of educational technology by reimagining how learners interact with SDESkills' rich video content.​
+For inquiries, please contact us at [hackathon@sdeskills.com](hackathon@sdeskills.com). Join us in shaping the future of educational technology by reimagining how learners interact with SDESkills' rich video content.​
 
 ## Technical Details
 * 800+ Videos, with over 1000+ hours of content - [SDE Skills Channel](http://youtube.com/sdeskills)
-* [Playlist of many public videos] (https://www.youtube.com/playlist?list=PLBtMh4xfa9FFsgYQRZ00aFseEniHa-mvm)
+* [Playlist of many public videos](https://www.youtube.com/playlist?list=PLBtMh4xfa9FFsgYQRZ00aFseEniHa-mvm)
