@@ -53,7 +53,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * Share your submission with [hackathon@sdeskills.com](hackathon@sdeskills.com)
 
 ## Sponsors
-carrerflow.ai
+[carrerflow.ai](https://www.careerflow.ai/)
 
 ## Judges
 The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are [inviting judges](https://forms.gle/sDczC1VLaHYLwijcA) to review the hackathon submissions. 
