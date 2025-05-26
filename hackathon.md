@@ -22,6 +22,10 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * **Learn**: Gain hands-on experience with AI applications in education and receive feedback from industry experts.​
 * **Win**: Compete for $2,500 worth of prizes and the opportunity to have your solution featured on SDESkills' platforms and social media pages.
 
+## Who can Participate?
+* To be eligible to enter the Contest, you must be above the age of majority in the country, state, province or jurisdiction of residence. Contest is applicable to residents of USA and Canada.
+* You may submit your Project as a team or on behalf of an organization. Team size is limited to a maximum of four (4) individuals. 
+
 
 ## SDE Skills Resources
 * **Discord** - We have more than 12,000 Engineers in our discord community getting guidance on latest distributed cloud computing technologies  -  [https://SDESkills.com/discord](https://SDESkills.com/discord) 
