@@ -42,8 +42,14 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * **Technical Execution (20%)**: Quality of implementation and effective use of AI technologies.​
 * **Submission Quality and Presentation (20%):** Clarity and effectiveness in communicating the project's value and impact.
 
+## What to Submit
+* Include a video (about 3 minutes) that demonstrates your submission. 
+* Provide a URL to your private code repository for judging and testing.
+* Include a detailed README.md
+* Share your submission with [hackathon@sdeskills.com](hackathon@sdeskills.com)
+
 ## Sponsors
-To Be Determined​
+carrerflow.ai
 
 ## Judges
 The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are [inviting judges](https://forms.gle/sDczC1VLaHYLwijcA) to review the hackathon submissions. 
