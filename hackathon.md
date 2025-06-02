@@ -20,7 +20,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * **Innovate**: Contribute to the evolution of educational content through AI-driven solutions.​
 * **Collaborate**: Work alongside like-minded individuals in a dynamic, team-oriented environment.​
 * **Learn**: Gain hands-on experience with AI applications in education and receive feedback from industry experts.​
-* **Win**: Compete for $500 (and more coming up) worth of prizes and the opportunity to have your solution featured on SDESkills' platforms and social media pages.
+* **Win**: Compete for $3000 (and more coming up) worth of prizes including cash & digital subscriptions and the opportunity to have your solution featured on SDESkills' platforms and social media pages.
 
 ## Who can Participate?
 * To be eligible to enter the Contest, you must be above the age of majority in your country, state, province, or jurisdiction of residence. The Contest is open to IT professionals working in the USA and Canada.
