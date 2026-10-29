@@ -14,6 +14,18 @@
   gtag('js', new Date());
 
   gtag('config', 'AW-674035741');
+
+  // Google Ads conversion "Discord join click" (Ad Grants needs a real conversion to track).
+  // Fires on any click to a Discord invite: /discord, /invite, discord.gg, discord.com/invite.
+  window.sdeskillsDiscordConversion = function () {
+    gtag('event', 'conversion', {'send_to': 'AW-674035741/TJfeCLDJ5K0dEJ3ws8EC', 'value': 1.0, 'currency': 'USD'});
+  };
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (a && /(^|\/\/(www\.)?sdeskills\.com)\/(discord|invite)\/?($|[?#])|discord\.(gg|com\/invite)\//.test(a.getAttribute('href'))) {
+      window.sdeskillsDiscordConversion();
+    }
+  });
 </script>
 
 

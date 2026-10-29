@@ -30,7 +30,8 @@ $(document).ready(function() {
                 type: "post",
                 data: $("#slackInvite").serialize(),
                 success: function(d) {
-                    $("button#slackSubmit").html("Invited...").attr("disabled", "disabled")
+                    $("button#slackSubmit").html("Invited...").attr("disabled", "disabled");
+                    if (window.sdeskillsDiscordConversion) window.sdeskillsDiscordConversion();
                 },
                 error: function(d) {
                     $("button#slackSubmit").html("Failed...").attr("disabled", "disabled");
