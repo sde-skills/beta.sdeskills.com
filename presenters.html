@@ -21,8 +21,8 @@ form: true
       <img src="img/people/placeholder.jpg" class="img-fluid img-circle border" alt="">      
       {% endif %}
       <p class="text">{{member.name}} 
-      <a href="https://www.linkedin.com/in/{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i>
-      </a>
+      {% if member.linkedin and member.linkedin != "" %}<a href="https://www.linkedin.com/in/{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i>
+      </a>{% endif %}
       </p>
       {% if member.title %}
       <p class="text">{{member.title}}</p>

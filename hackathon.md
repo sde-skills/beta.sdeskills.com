@@ -1,4 +1,5 @@
 ---
+sitemap: false
 layout: page
 title: Hackathon 2025
 description: Code, Create, Innovate. Unleash your inner maker.
@@ -50,7 +51,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 * Include a video (about 3 minutes) that demonstrates your submission. 
 * Provide a URL to your private code repository for judging and testing.
 * Include a detailed README.md
-* Share your submission with [hackathon@sdeskills.com](hackathon@sdeskills.com)
+* Share your submission with [hackathon@sdeskills.com](mailto:hackathon@sdeskills.com)
 
 ## Sponsors
 [carrerflow.ai](https://www.careerflow.ai/), [zync.ai](https://www.zync.ai/), [acejournal.org](https://www.acejournal.org/2025/05/31/ACEJ-sponsored-hackathon)
@@ -59,7 +60,7 @@ SDESkills is a volunteer-led, 501(c)(3) non-profit organization committed to bri
 The hackathon will be judged by engineering leaders in distributed cloud computing, AI/ML and video technology. We are [inviting judges](https://forms.gle/sDczC1VLaHYLwijcA) to review the hackathon submissions. 
 
 ## Contact Information
-For inquiries, please contact us at [hackathon@sdeskills.com](hackathon@sdeskills.com). Join us in shaping the future of educational technology by reimagining how learners interact with SDESkills' rich video content.​
+For inquiries, please contact us at [hackathon@sdeskills.com](mailto:hackathon@sdeskills.com). Join us in shaping the future of educational technology by reimagining how learners interact with SDESkills' rich video content.​
 
 ## Technical Details
 * 800+ Videos, with over 1000+ hours of content - [SDE Skills Channel](http://youtube.com/sdeskills)

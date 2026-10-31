@@ -7,31 +7,8 @@ background: '/img/bg-studygroups.jpg'
 
 # How do I Join the SDE Skills Discord?
 Joining our vibrant discord community is easy! We are eager to have you on our platform.
-<form name="slackInvite" id="slackInvite">
-  <div class="form-row">
-    <div class="col-mx-12 col-md-9">  
-		<div class="row">
-			<div class="col-mx-12 col-md-5">
-			<input type="text" class="form-control form-control-lg mt-2" placeholder="Name" id="name" name="name">
-			</div>
-			<div class="col-mx-12 col-md-7">
-			<input type="text" class="form-control form-control-lg mt-2" placeholder="Enter your email address" name="email" id="email">
-			</div>	
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<div class="form-check">
-					<input class="form-check-input" name="notify" type="checkbox" id="notify" checked="checked">
-					<label class="form-check-label" for="notify">Also add me to your mailing list to notify about future programs!</label>
-      			</div>			
-			</div>
-	    </div>
-    </div>		
-    <div class="col">
-	  <button id="slackSubmit" type="Submit" class="btn btn-primary mt-2">Invite me!</button>
-    </div>
-  </div>
-</form>
+<p><a class="btn btn-primary btn-lg mt-2" href="https://www.sdeskills.com/discord">Join the SDE Skills Discord</a></p>
+<p>The invite opens in Discord. It is free, and you can leave anytime.</p>
 <br/><br/>
 # SDE Skills Code of Conduct
 Given that we are a large group of people, please follow the following guidelines to help you get the most from our Discord community.

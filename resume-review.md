@@ -1,4 +1,5 @@
 ---
+sitemap: false
 layout: page
 title: Resume Review
 description: <p>Improve Your odds by Upgrading Your Resume</p><a class="btn btn-primary mt-2" onclick="(()=>{fbq('track','ResumeReview')})()" href="https://www.careerflow.ai/resume-review?utm_campaign=SDESKILLS">Upgrade your Resume</a><br>Use promo code SDESKILLS for 20% off all services
