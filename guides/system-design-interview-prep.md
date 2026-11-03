@@ -10,6 +10,12 @@ System design interviews are open ended on purpose. There is rarely one right an
 how you clarify a vague problem, make tradeoffs and explain them clearly. The good news: that is a learnable skill,
 and you do not need a paid course to learn it.
 
+Start with our most-watched session (38,000+ views): the key concepts you need for system design interviews.
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/hsKwiIc7EXU" title="System Design Interviews: Preparation, Key Concepts (Part 1 of 2)" loading="lazy" allowfullscreen></iframe>
+</div>
+
 ## 1. Learn the building blocks first
 
 Before practicing full designs, get comfortable with the pieces most designs are made of:
