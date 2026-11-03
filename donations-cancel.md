@@ -1,4 +1,5 @@
 ---
+sitemap: false
 layout: page
 title: Oops!
 description: Something went wrong with your donation

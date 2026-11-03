@@ -36,3 +36,10 @@ collections:
   videos:
     output: true
     permalink: /youtube-channel/:path
+
+# Keep non-content files out of the sitemap (search-console hygiene)
+defaults:
+  - scope:
+      path: "nkqrpjtvjib33t6i4ptizt9sza96g0.html"
+    values:
+      sitemap: false

@@ -1,4 +1,5 @@
 ---
+sitemap: false
 layout: page
 title: Thank you for your Donation
 description: We greatly appreciate your support!
