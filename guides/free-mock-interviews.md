@@ -17,6 +17,15 @@ practice that, and you can do them for free.
 - **Talk through everything**: clarifying questions, your approach, complexity, edge cases
 - **Feedback at the end** on communication, problem solving and code quality, not just "did it pass"
 
+## See the feedback from a real mock
+
+From an SDE Skills mock algorithm interview: the interviewer walks through the four areas candidates are
+scored on (requirements, problem solving, coding and verification).
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/RtGYY3iQMWI?start=2975" title="SDE Skills Mock Algorithm Interview: interviewer feedback" loading="lazy" allowfullscreen></iframe>
+</div>
+
 ## How to practice coding interviews for free
 
 1. **Pair up with a peer.** Take turns as interviewer and candidate. Being the interviewer teaches you what

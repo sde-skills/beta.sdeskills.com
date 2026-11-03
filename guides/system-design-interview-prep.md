@@ -41,6 +41,15 @@ Work through common prompts such as a URL shortener, a news feed, a chat system,
 a notification service and a file storage service. Practice **talking**, not just drawing. Explaining tradeoffs
 clearly is most of the score.
 
+## Watch a real mock interview
+
+A full system design mock interview from an SDE Skills session: designing an API rate limiter,
+followed by feedback from the interviewer and other engineers.
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/XqQztcVWtjM?start=0" title="System Design Mock Interview: Design API Rate Limiter" loading="lazy" allowfullscreen></iframe>
+</div>
+
 ## 4. Get feedback from other engineers
 
 Reading about design only gets you so far. The fastest improvement comes from presenting a design and having
