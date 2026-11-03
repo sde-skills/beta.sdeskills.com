@@ -4,6 +4,11 @@ title: Resources
 description: Here are some great resources to help you with your preparation. 
 background: '/img/bg-resources.jpg'
 ---
+## Guides from SDE Skills
+* [How to Prepare for a System Design Interview (Free Plan)]({{ '/guides/system-design-interview-prep' | relative_url }})
+* [Free Mock Interviews - How to Practice Coding Interviews]({{ '/guides/free-mock-interviews' | relative_url }})
+* [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
+
 
 # SDE Skills Resources
 * [SDE Skills Discord Server](https://sdeskills.com/discord)
