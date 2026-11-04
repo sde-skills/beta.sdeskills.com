@@ -5,6 +5,8 @@ description: How to practice coding interviews for free, including free mock int
 background: '/img/bg-leetcode.jpg'
 permalink: /guides/free-mock-interviews
 ---
+{% include join-cta.html %}
+
 
 Solving problems alone is not the same as solving them in an interview. In a real interview you have to think
 out loud, handle hints, manage time and stay calm while someone watches. Mock interviews are the best way to

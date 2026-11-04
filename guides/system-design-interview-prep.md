@@ -5,6 +5,8 @@ description: A practical, free plan to learn system design and prepare for syste
 background: '/img/bg-presenters.jpg'
 permalink: /guides/system-design-interview-prep
 ---
+{% include join-cta.html %}
+
 
 System design interviews are open ended on purpose. There is rarely one right answer. Interviewers want to see
 how you clarify a vague problem, make tradeoffs and explain them clearly. The good news: that is a learnable skill,

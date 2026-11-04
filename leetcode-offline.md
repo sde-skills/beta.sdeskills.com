@@ -5,6 +5,8 @@ description: LeetCode needs an internet connection to run and submit code, but y
 background: '/img/bg-index.jpg'
 permalink: /leetcode-offline
 ---
+{% include join-cta.html %}
+
 
 ## Short answer
 

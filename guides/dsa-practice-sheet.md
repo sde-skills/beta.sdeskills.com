@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Free DSA Practice Sheet and Roadmap
+title: Free DSA Practice Sheet, Roadmap and Notes
 description: A free data structures and algorithms practice sheet organized by pattern, with LeetCode problems, video walkthroughs from SDE Skills sessions, and free live practice with other engineers.
 background: '/img/bg-leetcode.jpg'
 permalink: /guides/dsa-practice-sheet
 ---
+{% include join-cta.html %}
+
 
 Most people learn data structures and algorithms by grinding random problems. It works better to learn
 **patterns**: once you recognize a sliding window or a monotonic stack, dozens of problems become the same
@@ -17,6 +19,19 @@ can solve a new problem in it without hints.
 2. Solve the problems in order. Give each one 25 to 30 minutes before looking at hints.
 3. After solving, write one sentence: *what clue told me to use this pattern?*
 4. Revisit missed problems after 3 days and again after a week.
+
+## A simple DSA roadmap (8 weeks)
+
+| Week | Focus |
+|---|---|
+| 1 | Arrays and hashing, two pointers |
+| 2 | Sliding window, stacks and monotonic stacks |
+| 3 | Binary search, linked lists |
+| 4 | Trees (DFS, BFS, BST properties) |
+| 5 | Heaps, selection, intervals |
+| 6 | Backtracking |
+| 7 | Graphs (BFS/DFS on grids, topological sort, union find) |
+| 8 | Dynamic programming, then mixed review |
 
 ## The sheet
 
@@ -33,6 +48,19 @@ can solve a new problem in it without hints.
 | Backtracking | Subsets (78), Combination Sum (39), Permutations (46) |
 | Graphs | Number of Islands (200), Clone Graph (133), Course Schedule (207), Redundant Connection (684) |
 | Dynamic programming | Climbing Stairs (70), House Robber (198), Coin Change (322), Longest Increasing Subsequence (300) |
+
+
+## Quick DSA notes: when to use each pattern
+
+- **Hashing**: you need fast lookups or counts ("have I seen this before?").
+- **Two pointers**: sorted input, or pairs/triples that must satisfy a condition.
+- **Sliding window**: a contiguous subarray or substring with a constraint (longest, shortest, at most k).
+- **Monotonic stack**: "next greater/smaller element" or spans and areas in histograms.
+- **Binary search**: sorted data, or a yes/no answer that flips at some value (search on the answer).
+- **Heap**: repeatedly need the smallest/largest item, top k, or merging sorted streams.
+- **Backtracking**: generate all subsets, permutations or combinations; prune early.
+- **Graph BFS/DFS**: connected regions, shortest steps in unweighted graphs, dependencies (topological sort).
+- **Dynamic programming**: overlapping subproblems; define the state, the transition and the base case.
 
 ## Video walkthroughs from SDE Skills sessions
 
