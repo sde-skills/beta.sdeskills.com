@@ -8,6 +8,8 @@ background: '/img/bg-resources.jpg'
 * [Free DSA Practice Sheet and Roadmap]({{ '/guides/dsa-practice-sheet' | relative_url }})
 * [How to Prepare for a System Design Interview (Free Plan)]({{ '/guides/system-design-interview-prep' | relative_url }})
 * [Free Mock Interviews - How to Practice Coding Interviews]({{ '/guides/free-mock-interviews' | relative_url }})
+* [Object-Oriented Design (Low-Level Design) Interview Prep]({{ '/guides/object-oriented-design-interview' | relative_url }})
+* [How to Design a Rate Limiter (System Design)]({{ '/guides/rate-limiter-system-design' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 

@@ -77,8 +77,10 @@ See the [full schedule]({{ '/programs' | relative_url }}).
 | Week | Focus |
 |---|---|
 | 1 | Building blocks: caching, databases, load balancing, queues |
-| 2 | The 6-step answer structure on 2 easy prompts (URL shortener, rate limiter) |
+| 2 | The 6-step answer structure on 2 easy prompts (URL shortener, [rate limiter]({{ '/guides/rate-limiter-system-design' | relative_url }})) |
 | 3 | Bigger prompts (news feed, chat) and estimating scale |
 | 4 | Mock interviews with feedback; fix your weakest step |
 
 Keep practicing algorithms alongside design. See our [LeetCode practice guide]({{ '/leetcode' | relative_url }}).
+
+More guides: [Rate limiter design]({{ '/guides/rate-limiter-system-design' | relative_url }}) · [Object-oriented design interview prep]({{ '/guides/object-oriented-design-interview' | relative_url }})
