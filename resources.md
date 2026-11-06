@@ -10,6 +10,7 @@ background: '/img/bg-resources.jpg'
 * [Free Mock Interviews - How to Practice Coding Interviews]({{ '/guides/free-mock-interviews' | relative_url }})
 * [Object-Oriented Design (Low-Level Design) Interview Prep]({{ '/guides/object-oriented-design-interview' | relative_url }})
 * [How to Design a Rate Limiter (System Design)]({{ '/guides/rate-limiter-system-design' | relative_url }})
+* [What System Design Interviewers Look For]({{ '/guides/what-system-design-interviewers-look-for' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 

@@ -83,4 +83,4 @@ See the [full schedule]({{ '/programs' | relative_url }}).
 
 Keep practicing algorithms alongside design. See our [LeetCode practice guide]({{ '/leetcode' | relative_url }}).
 
-More guides: [Rate limiter design]({{ '/guides/rate-limiter-system-design' | relative_url }}) · [Object-oriented design interview prep]({{ '/guides/object-oriented-design-interview' | relative_url }})
+More guides: [Rate limiter design]({{ '/guides/rate-limiter-system-design' | relative_url }}) · [Object-oriented design interview prep]({{ '/guides/object-oriented-design-interview' | relative_url }}) · [What interviewers look for]({{ '/guides/what-system-design-interviewers-look-for' | relative_url }})
