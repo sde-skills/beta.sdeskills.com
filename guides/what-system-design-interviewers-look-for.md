@@ -43,7 +43,7 @@ final design back through the original requirements so the interviewer sees ever
 ## 4. Justify every box
 
 Interviewers ask "why is this here?" about each component. Extra queues, caches and services that are not
-needed count against you. In one session a candidate's own verdict on his rate limiter design was that he had
+needed count against you. In one session a candidate's own verdict on their rate limiter design was that they had
 over-complicated a simple problem. ([63:04](https://www.youtube.com/watch?v=JJZMhz59yz8&t=3784s),
 [42:23](https://www.youtube.com/watch?v=XqQztcVWtjM&t=2543s)) See our
 [rate limiter guide]({{ '/guides/rate-limiter-system-design' | relative_url }}) for a right-sized answer.
