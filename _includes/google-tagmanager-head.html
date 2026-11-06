@@ -17,13 +17,15 @@
 
   // Google Ads conversion "Discord join click" (Ad Grants needs a real conversion to track).
   // Fires on any click to a Discord invite or a Zoom session link: /discord, /invite, /zoom, discord.gg, zoom.us/j.
-  window.sdeskillsDiscordConversion = function () {
+  window.sdeskillsDiscordConversion = function (url) {
     gtag('event', 'conversion', {'send_to': 'AW-674035741/TJfeCLDJ5K0dEJ3ws8EC', 'value': 1.0, 'currency': 'USD'});
+    // Same click as a GA4 event (key event in GA4) so we can see which pages drive joins.
+    gtag('event', 'join_click', {'send_to': 'G-2R9R7CDGJ6', 'link_url': url || '', 'page_path': location.pathname});
   };
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a[href]');
     if (a && /(^|\/\/(www\.)?sdeskills\.com)\/(discord|invite|zoom)\/?($|[?#])|discord\.(gg|com\/invite)\/|zoom\.us\/j\//.test(a.getAttribute('href'))) {
-      window.sdeskillsDiscordConversion();
+      window.sdeskillsDiscordConversion(a.href);
     }
   });
 </script>
