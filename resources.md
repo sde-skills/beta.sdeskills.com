@@ -12,6 +12,7 @@ background: '/img/bg-resources.jpg'
 * [How to Design a Rate Limiter (System Design)]({{ '/guides/rate-limiter-system-design' | relative_url }})
 * [What System Design Interviewers Look For]({{ '/guides/what-system-design-interviewers-look-for' | relative_url }})
 * [LeetCode 564: Find the Closest Palindrome]({{ '/guides/leetcode-564-find-the-closest-palindrome' | relative_url }})
+* [LeetCode 457: Circular Array Loop]({{ '/guides/leetcode-457-circular-array-loop' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 
