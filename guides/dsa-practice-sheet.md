@@ -82,7 +82,7 @@ can solve a new problem in it without hints.
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Do95Apr9Ldc" title="Binary Search Templates" loading="lazy" allowfullscreen></iframe>
 </div>
 
-**QuickSelect (for Kth Largest Element)**
+**QuickSelect (for Kth Largest Element)** ([written guide]({{ '/guides/quickselect-kth-largest-element' | relative_url }}))
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/u0-KiwDcTlQ" title="What is QuickSelect? Evolve from QuickSort Algorithm" loading="lazy" allowfullscreen></iframe>
