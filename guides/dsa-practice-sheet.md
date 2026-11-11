@@ -64,7 +64,7 @@ can solve a new problem in it without hints.
 
 ## Video walkthroughs from SDE Skills sessions
 
-**Sliding window**
+**Sliding window** ([written guide]({{ '/guides/sliding-window-technique' | relative_url }}))
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/bDMurnnxkTk" title="SDE Skills Algo Weekly Session - Sliding Window" loading="lazy" allowfullscreen></iframe>
