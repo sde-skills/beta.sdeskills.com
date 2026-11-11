@@ -11,6 +11,7 @@ background: '/img/bg-resources.jpg'
 * [Object-Oriented Design (Low-Level Design) Interview Prep]({{ '/guides/object-oriented-design-interview' | relative_url }})
 * [How to Design a Rate Limiter (System Design)]({{ '/guides/rate-limiter-system-design' | relative_url }})
 * [What System Design Interviewers Look For]({{ '/guides/what-system-design-interviewers-look-for' | relative_url }})
+* [Back-of-the-Envelope Estimation (System Design)]({{ '/guides/back-of-the-envelope-estimation' | relative_url }})
 * [LeetCode 564: Find the Closest Palindrome]({{ '/guides/leetcode-564-find-the-closest-palindrome' | relative_url }})
 * [LeetCode 457: Circular Array Loop]({{ '/guides/leetcode-457-circular-array-loop' | relative_url }})
 * [QuickSelect: Kth Largest Element (LeetCode 215)]({{ '/guides/quickselect-kth-largest-element' | relative_url }})
