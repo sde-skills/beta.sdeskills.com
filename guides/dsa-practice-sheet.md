@@ -70,7 +70,7 @@ can solve a new problem in it without hints.
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/bDMurnnxkTk" title="SDE Skills Algo Weekly Session - Sliding Window" loading="lazy" allowfullscreen></iframe>
 </div>
 
-**Monotonic stack**
+**Monotonic stack** ([written guide]({{ '/guides/monotonic-stack' | relative_url }}))
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/m4hvxzLoN_I" title="Monotonic Stack - Daily Coding Practice" loading="lazy" allowfullscreen></iframe>

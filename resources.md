@@ -16,6 +16,7 @@ background: '/img/bg-resources.jpg'
 * [LeetCode 457: Circular Array Loop]({{ '/guides/leetcode-457-circular-array-loop' | relative_url }})
 * [QuickSelect: Kth Largest Element (LeetCode 215)]({{ '/guides/quickselect-kth-largest-element' | relative_url }})
 * [The Sliding Window Technique]({{ '/guides/sliding-window-technique' | relative_url }})
+* [Monotonic Stack: One Idea, Five LeetCode Problems]({{ '/guides/monotonic-stack' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 
