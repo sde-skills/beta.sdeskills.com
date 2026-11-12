@@ -16,7 +16,7 @@
   gtag('config', 'AW-674035741');
 
   // Google Ads conversion "Discord join click" (Ad Grants needs a real conversion to track).
-  // Fires on any click to a Discord invite or a Zoom session link: /discord, /invite, /zoom, discord.gg, zoom.us/j.
+  // Fires on any click to a Discord invite, a Zoom session link or the Seattle meetup RSVP: /discord, /invite, /zoom, /meetup*, discord.gg, zoom.us/j, meetup.com/skillets.
   window.sdeskillsDiscordConversion = function (url) {
     gtag('event', 'conversion', {'send_to': 'AW-674035741/TJfeCLDJ5K0dEJ3ws8EC', 'value': 1.0, 'currency': 'USD'});
     // Same click as a GA4 event (key event in GA4) so we can see which pages drive joins.
@@ -24,7 +24,7 @@
   };
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a[href]');
-    if (a && /(^|\/\/(www\.)?sdeskills\.com)\/(discord|invite|zoom)\/?($|[?#])|discord\.(gg|com\/invite)\/|zoom\.us\/j\//.test(a.getAttribute('href'))) {
+    if (a && /(^|\/\/(www\.)?sdeskills\.com)\/(discord|invite|zoom|meetup|meetup-sea|join-meetup-sea)\/?($|[?#])|discord\.(gg|com\/invite)\/|zoom\.us\/j\/|meetup\.com\/skillets/.test(a.getAttribute('href'))) {
       window.sdeskillsDiscordConversion(a.href);
     }
   });
