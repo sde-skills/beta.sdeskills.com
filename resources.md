@@ -17,6 +17,7 @@ background: '/img/bg-resources.jpg'
 * [QuickSelect: Kth Largest Element (LeetCode 215)]({{ '/guides/quickselect-kth-largest-element' | relative_url }})
 * [The Sliding Window Technique]({{ '/guides/sliding-window-technique' | relative_url }})
 * [Monotonic Stack: One Idea, Five LeetCode Problems]({{ '/guides/monotonic-stack' | relative_url }})
+* [Dynamic Programming Interview Patterns]({{ '/guides/dynamic-programming-patterns' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 
