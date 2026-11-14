@@ -59,7 +59,7 @@ can solve a new problem in it without hints.
 - **Binary search**: sorted data, or a yes/no answer that flips at some value (search on the answer).
 - **Heap**: repeatedly need the smallest/largest item, top k, or merging sorted streams.
 - **Backtracking**: generate all subsets, permutations or combinations; prune early.
-- **Graph BFS/DFS**: connected regions, shortest steps in unweighted graphs, dependencies (topological sort).
+- **Graph BFS/DFS**: connected regions, shortest steps in unweighted graphs, dependencies (topological sort) ([graphs guide]({{ '/guides/graph-algorithms-interview' | relative_url }})).
 - **Dynamic programming**: overlapping subproblems; define the state, the transition and the base case ([DP patterns guide]({{ '/guides/dynamic-programming-patterns' | relative_url }})).
 
 ## Video walkthroughs from SDE Skills sessions

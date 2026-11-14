@@ -18,6 +18,7 @@ background: '/img/bg-resources.jpg'
 * [The Sliding Window Technique]({{ '/guides/sliding-window-technique' | relative_url }})
 * [Monotonic Stack: One Idea, Five LeetCode Problems]({{ '/guides/monotonic-stack' | relative_url }})
 * [Dynamic Programming Interview Patterns]({{ '/guides/dynamic-programming-patterns' | relative_url }})
+* [Graphs for Coding Interviews: BFS vs Dijkstra, Topological Sort]({{ '/guides/graph-algorithms-interview' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 
