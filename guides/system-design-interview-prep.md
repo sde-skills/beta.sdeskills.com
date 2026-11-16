@@ -77,7 +77,7 @@ See the [full schedule]({{ '/programs' | relative_url }}).
 | Week | Focus |
 |---|---|
 | 1 | Building blocks: caching, databases, load balancing, queues |
-| 2 | The 6-step answer structure on 2 easy prompts (URL shortener, [rate limiter]({{ '/guides/rate-limiter-system-design' | relative_url }})) |
+| 2 | The 6-step answer structure on 2 easy prompts ([URL shortener]({{ '/guides/url-shortener-system-design' | relative_url }}), [rate limiter]({{ '/guides/rate-limiter-system-design' | relative_url }})) |
 | 3 | Bigger prompts (news feed, chat) and estimating scale |
 | 4 | Mock interviews with feedback; fix your weakest step |
 
