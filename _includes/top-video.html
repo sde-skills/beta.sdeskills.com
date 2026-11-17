@@ -1,0 +1,7 @@
+{%- comment -%} Usage: {% include top-video.html id="VIDEO_ID" start=123 title="..." %} {%- endcomment -%}
+<div class="mb-4">
+  <p class="mb-2"><strong>Watch the 2-minute explanation</strong> from a free SDE Skills session:</p>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ include.id }}?start={{ include.start | default: 0 }}&rel=0" title="{{ include.title | default: 'SDE Skills session' | escape }}" loading="lazy" allowfullscreen></iframe>
+  </div>
+</div>

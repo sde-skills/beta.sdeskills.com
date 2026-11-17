@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Prepare for a System Design Interview (Free Plan)
-description: A practical, free plan to learn system design and prepare for system design interviews, plus weekly live practice sessions with volunteer engineers.
+title: "System Design Interview Preparation: A Free Step-by-Step Plan"
+description: System design interview preparation made simple, with a practical, free plan to learn system design and prepare for system design interviews, plus weekly live practice sessions with volunteer engineers.
 background: '/img/bg-presenters.jpg'
 permalink: /guides/system-design-interview-prep
 ---
@@ -78,7 +78,7 @@ See the [full schedule]({{ '/programs' | relative_url }}).
 |---|---|
 | 1 | Building blocks: caching, databases, load balancing, queues |
 | 2 | The 6-step answer structure on 2 easy prompts ([URL shortener]({{ '/guides/url-shortener-system-design' | relative_url }}), [rate limiter]({{ '/guides/rate-limiter-system-design' | relative_url }})) |
-| 3 | Bigger prompts (news feed, chat) and estimating scale |
+| 3 | Bigger prompts (news feed, [chat app]({{ '/guides/chat-app-system-design' | relative_url }})) and estimating scale |
 | 4 | Mock interviews with feedback; fix your weakest step |
 
 Keep practicing algorithms alongside design. See our [LeetCode practice guide]({{ '/leetcode' | relative_url }}).

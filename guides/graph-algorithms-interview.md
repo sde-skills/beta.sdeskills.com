@@ -7,6 +7,8 @@ permalink: /guides/graph-algorithms-interview
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="ZEHgJ_OSWXM" start=427 title="Graphs for Coding Interviews: BFS vs Dijkstra, Topological Sort" %}
+
 Graph problems look scary, but most interview questions use one of a few tools: DFS, BFS, Dijkstra and
 topological sort. The hard part is picking the right one. This guide shows how, with short, tested Python
 solutions.

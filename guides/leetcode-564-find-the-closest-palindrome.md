@@ -7,6 +7,8 @@ permalink: /guides/leetcode-564-find-the-closest-palindrome
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="2vqs56N5CbM" start=0 title="LeetCode 564: Find the Closest Palindrome (Explained, With Video)" %}
+
 **The problem:** given an integer as a string `n`, return the closest integer palindrome that is not `n`
 itself. If two palindromes are equally close, return the smaller one.
 

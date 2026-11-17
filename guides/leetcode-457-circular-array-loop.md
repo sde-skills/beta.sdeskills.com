@@ -7,6 +7,8 @@ permalink: /guides/leetcode-457-circular-array-loop
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="cjeQwRNbiDo" start=0 title="LeetCode 457: Circular Array Loop (Explained, With Video)" %}
+
 **The problem:** you get a circular array of non-zero integers. From index `i` you move `nums[i]` steps
 (forward if positive, backward if negative, wrapping around). Return `true` if there is a **cycle** that
 

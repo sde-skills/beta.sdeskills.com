@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Can You Do LeetCode Offline?
-description: LeetCode needs an internet connection to run and submit code, but you can still practice coding interview problems offline. Here is how, plus free live practice with other engineers.
+title: "LeetCode Offline: Can You Practice Without Internet?"
+description: LeetCode offline, explained. LeetCode needs an internet connection to run and submit code, but you can still practice coding interview problems offline. Here is how, plus free live practice with other engineers.
 background: '/img/bg-index.jpg'
 permalink: /leetcode-offline
 ---

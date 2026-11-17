@@ -20,6 +20,7 @@ background: '/img/bg-resources.jpg'
 * [Dynamic Programming Interview Patterns]({{ '/guides/dynamic-programming-patterns' | relative_url }})
 * [Graphs for Coding Interviews: BFS vs Dijkstra, Topological Sort]({{ '/guides/graph-algorithms-interview' | relative_url }})
 * [Design a URL Shortener (and Pastebin)]({{ '/guides/url-shortener-system-design' | relative_url }})
+* [Design a Chat App Like WhatsApp]({{ '/guides/chat-app-system-design' | relative_url }})
 * [Can You Do LeetCode Offline?]({{ '/leetcode-offline' | relative_url }})
 
 

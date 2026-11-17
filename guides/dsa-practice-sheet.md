@@ -7,6 +7,8 @@ permalink: /guides/dsa-practice-sheet
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="uuN4Xh2eNrI" start=1221 title="Free DSA Practice Sheet, Roadmap and Notes" %}
+
 
 Most people learn data structures and algorithms by grinding random problems. It works better to learn
 **patterns**: once you recognize a sliding window or a monotonic stack, dozens of problems become the same

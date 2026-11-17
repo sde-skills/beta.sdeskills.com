@@ -7,6 +7,8 @@ permalink: /guides/quickselect-kth-largest-element
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="u0-KiwDcTlQ" start=0 title="QuickSelect Explained: Kth Largest Element in O(n) (LeetCode 215)" %}
+
 **QuickSelect** finds the k-th smallest (or largest) element without sorting the whole array. It is the
 standard answer to **LeetCode 215: Kth Largest Element in an Array** and shows up in "top k" and median problems.
 

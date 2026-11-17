@@ -7,6 +7,8 @@ permalink: /guides/dynamic-programming-patterns
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="a4LiotNc7EU" start=208 title="Dynamic Programming Interview Patterns: Stairs, Subset Sum, Coin Change" %}
+
 Dynamic programming (DP) scares a lot of people, but most interview DP problems use the same few ideas.
 This guide walks through them with short, tested Python solutions.
 

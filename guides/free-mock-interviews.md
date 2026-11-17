@@ -5,6 +5,7 @@ description: How to practice coding interviews for free, including free mock int
 background: '/img/bg-leetcode.jpg'
 permalink: /guides/free-mock-interviews
 ---
+
 <div class="alert alert-light border mb-4" role="note">
   <strong>Want a free mock interview?</strong> Join the SDE Skills Discord and ask for a mock interview partner,
   or join one of our weekly sessions on Zoom where volunteers run live mocks with feedback.
@@ -13,6 +14,8 @@ permalink: /guides/free-mock-interviews
     <a class="btn btn-outline-primary btn-sm mb-1" href="https://www.sdeskills.com/zoom">Join a session on Zoom</a>
   </div>
 </div>
+
+{% include top-video.html id="RtGYY3iQMWI" start=2975 title="Free Mock Interviews - How to Practice Coding Interviews" %}
 
 
 Solving problems alone is not the same as solving them in an interview. In a real interview you have to think

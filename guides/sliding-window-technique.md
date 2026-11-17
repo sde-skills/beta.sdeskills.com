@@ -7,6 +7,8 @@ permalink: /guides/sliding-window-technique
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="F7fWyFHe_xk" start=68 title="The Sliding Window Technique: One Template for LeetCode" %}
+
 Sliding window is one of the most common patterns in coding interviews. If a problem asks for the **longest,
 shortest or best contiguous subarray or substring** under some rule, think sliding window first.
 

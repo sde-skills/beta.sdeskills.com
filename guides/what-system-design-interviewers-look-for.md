@@ -7,6 +7,8 @@ permalink: /guides/what-system-design-interviewers-look-for
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="JJZMhz59yz8" start=205 title="What System Design Interviewers Look For: Lessons From Real Mock Interviews" %}
+
 SDE Skills volunteers have run and recorded many system design mock interviews, each followed by an open
 feedback round. The same handful of points come up again and again. Here they are, with links to the exact
 moments in the recordings.

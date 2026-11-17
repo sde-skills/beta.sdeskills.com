@@ -7,6 +7,8 @@ permalink: /guides/url-shortener-system-design
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="a2UEfsGzNUw" start=136 title="Design a URL Shortener (and Pastebin): System Design Interview Guide" %}
+
 "Design a URL shortener" (TinyURL, bit.ly) is often the first system design question people get. It looks
 simple, which is the trap: the interviewer wants to see how you scope it, size it and make key generation
 safe at scale. Pastebin is the same design with text instead of links.

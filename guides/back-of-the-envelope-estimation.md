@@ -7,6 +7,8 @@ permalink: /guides/back-of-the-envelope-estimation
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="a7p0bVqYNZ8" start=4640 title="Back-of-the-Envelope Estimation in System Design Interviews" %}
+
 Most system design interviews include a few minutes of "capacity estimation": how many users, requests per
 second, how much storage. Candidates often lose time here. In SDE Skills mock interview feedback the advice is
 consistent: **do it fast, use round numbers, and use the result to make a decision.**

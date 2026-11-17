@@ -7,6 +7,8 @@ permalink: /guides/monotonic-stack
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="m4hvxzLoN_I" start=1088 title="Monotonic Stack: One Idea, Five LeetCode Problems" %}
+
 A monotonic stack is a stack that stays sorted. Every time a new item comes in, you pop anything that breaks
 the order, then push the new item. It sounds small, but it turns many O(n²) problems into **O(n)**.
 

@@ -7,6 +7,8 @@ permalink: /guides/rate-limiter-system-design
 ---
 {% include join-cta.html %}
 
+{% include top-video.html id="XqQztcVWtjM" start=34 title="How to Design a Rate Limiter: System Design Interview Guide" %}
+
 "Design a rate limiter" is one of the most common system design interview questions. It is small enough to
 finish in 45 minutes, but it touches algorithms, distributed state and latency trade-offs. This guide follows the
 order that works well in an interview, with links into two recorded SDE Skills sessions where the problem is
