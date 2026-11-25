@@ -33,6 +33,23 @@ problem solving, not the website.
 - **Submit when you are back online.** Paste your solutions into LeetCode later to check them against
   the full test suite.
 
+## Time yourself like a real interview
+
+Offline practice works best when it feels like the real thing. In a 45-minute coding interview,
+you spend the first part understanding the problem and agreeing on an approach, so the time left
+for actually writing code is short. Set a timer, talk through your plan out loud, and leave a few
+minutes at the end to test with an example. This clip from one of our free sessions breaks down
+how the time in a coding interview really gets spent:
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Q7mgrP9tEsk?start=39" title="How the time in a 45-minute coding interview gets spent" loading="lazy" allowfullscreen></iframe>
+</div>
+
+Want a list of problems to download before you go offline? Our free
+[DSA practice sheet]({{ '/guides/dsa-practice-sheet' | relative_url }}) groups problems by pattern.
+When you are back online, a [free mock interview]({{ '/guides/free-mock-interviews' | relative_url }})
+with another engineer is the fastest way to find out how your offline practice holds up.
+
 ## Practice with other engineers (free)
 
 Practicing alone is hard to keep up. SDE Skills is a volunteer-run 501(c)(3) nonprofit that runs
